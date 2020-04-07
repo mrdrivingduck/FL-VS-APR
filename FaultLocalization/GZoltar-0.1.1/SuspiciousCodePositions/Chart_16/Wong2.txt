@@ -1,2 +1,3 @@
-org.jfree.data.category.DefaultIntervalCategoryDataset@641
-org.jfree.data.category.DefaultIntervalCategoryDataset@338
+source/org/jfree/data/category/DefaultIntervalCategoryDataset.java@641@1
+source/org/jfree/data/category/DefaultIntervalCategoryDataset.java@338@1
+source/org/jfree/data/category/DefaultIntervalCategoryDataset.java@335@1

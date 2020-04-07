@@ -1,4 +1,4 @@
-org.jfree.chart.renderer.category.MinMaxCategoryRenderer@174
-org.jfree.chart.renderer.category.MinMaxCategoryRenderer@171
-org.jfree.chart.renderer.category.MinMaxCategoryRenderer@170
-org.jfree.chart.renderer.category.MinMaxCategoryRenderer@169
+source/org/jfree/chart/renderer/category/MinMaxCategoryRenderer.java@174@1
+source/org/jfree/chart/renderer/category/MinMaxCategoryRenderer.java@171@1
+source/org/jfree/chart/renderer/category/MinMaxCategoryRenderer.java@170@1
+source/org/jfree/chart/renderer/category/MinMaxCategoryRenderer.java@169@1

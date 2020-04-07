@@ -1,1 +1,1 @@
-org.jfree.chart.imagemap.StandardToolTipTagFragmentGenerator@65
+source/org/jfree/chart/imagemap/StandardToolTipTagFragmentGenerator.java@65@∞

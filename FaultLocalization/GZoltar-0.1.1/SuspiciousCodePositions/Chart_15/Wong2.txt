@@ -1,2 +1,2 @@
-org.jfree.chart.plot.PiePlot@2613
-org.jfree.data.general.DatasetUtilities@153
+source/org/jfree/chart/plot/PiePlot.java@2613@1
+source/org/jfree/data/general/DatasetUtilities.java@153@1
