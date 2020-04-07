@@ -94,9 +94,10 @@ public class FL {
 			StringBuilder builder = new StringBuilder();
 			for (int index = 0, size = candidates.size(); index < size; index ++) {
 				SuspiciousCode candidate = candidates.get(index);
-				String className = candidate.getClassName();
+				String wholeName = gzfl.srcPath + candidate.getClassName().replace('.', '/') + ".java";
 				int lineNumber = candidate.lineNumber;
-				builder.append(className).append("@").append(lineNumber)
+				builder.append(wholeName.substring(wholeName.indexOf(buggyProject) + buggyProject.length() + 1))
+					.append("@").append(lineNumber)
 					.append("@").append(candidate.getSuspiciousValueString()).append("\n");
 			}
 			FileHelper.outputToFile(outputPath + buggyProject + "/" + metricStr + ".txt", builder, false);

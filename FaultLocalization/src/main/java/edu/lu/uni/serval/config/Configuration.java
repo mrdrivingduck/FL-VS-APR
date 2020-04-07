@@ -14,7 +14,7 @@ public class Configuration {
 	 */
 	public static final String[] METRICS_1_6_0 = {"barinel", "dstar2", "jaccard", "muse", "ochiai", "opt2", "tarantula"};
 	
-	public static final String BUGGY_PROJECTS_PATH = "/Users/kui.liu/Public/Defects4JDataBackup/";
+	public static final String BUGGY_PROJECTS_PATH = "/home/mrdrivingduck/d4jData/";
 	
 	public static final String SUSPICIOUS_POSITIONS_FILE_APTH = "SuspiciousCodePositions/";
 
