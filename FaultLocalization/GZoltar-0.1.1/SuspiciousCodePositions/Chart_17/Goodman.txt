@@ -1,1 +1,0 @@
-source/org/jfree/data/time/TimeSeries.java@880@0.3333333333

@@ -1,4 +1,0 @@
-source/org/jfree/data/Range.java@365@1
-source/org/jfree/data/statistics/DefaultBoxAndWhiskerCategoryDataset.java@175@1
-source/org/jfree/data/statistics/DefaultBoxAndWhiskerCategoryDataset.java@174@1
-source/org/jfree/data/statistics/DefaultBoxAndWhiskerCategoryDataset.java@173@1

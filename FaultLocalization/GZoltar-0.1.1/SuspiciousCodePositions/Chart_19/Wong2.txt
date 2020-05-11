@@ -1,6 +1,0 @@
-source/org/jfree/chart/plot/CategoryPlot.java@981@1
-source/org/jfree/chart/plot/CategoryPlot.java@976@1
-source/org/jfree/chart/plot/CategoryPlot.java@975@1
-source/org/jfree/chart/plot/CategoryPlot.java@974@1
-source/org/jfree/chart/plot/CategoryPlot.java@973@1
-source/org/jfree/chart/plot/CategoryPlot.java@698@1

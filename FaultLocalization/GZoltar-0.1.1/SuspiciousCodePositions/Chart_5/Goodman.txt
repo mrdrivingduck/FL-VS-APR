@@ -1,2 +1,0 @@
-source/org/jfree/data/xy/XYSeries.java@564@0.3333333333
-source/org/jfree/data/xy/XYSeries.java@527@0.3333333333

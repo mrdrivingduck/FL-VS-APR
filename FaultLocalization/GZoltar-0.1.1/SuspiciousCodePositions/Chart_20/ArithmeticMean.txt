@@ -1,4 +1,0 @@
-source/org/jfree/chart/plot/Marker.java@265@0.3331989518
-source/org/jfree/chart/plot/Marker.java@238@0.0713879284
-source/org/jfree/chart/plot/Marker.java@211@0.064479078
-source/org/jfree/chart/plot/ValueMarker.java@107@0.0624640074

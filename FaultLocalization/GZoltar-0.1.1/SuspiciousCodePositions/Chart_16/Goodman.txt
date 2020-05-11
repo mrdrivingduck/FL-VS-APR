@@ -1,5 +1,0 @@
-source/org/jfree/data/DataUtilities.java@133@0.0666666667
-source/org/jfree/data/DataUtilities.java@130@0.0666666667
-source/org/jfree/data/DataUtilities.java@129@0.0666666667
-source/org/jfree/data/DataUtilities.java@128@0.0666666667
-source/org/jfree/data/DataUtilities.java@125@0.0666666667

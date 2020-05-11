@@ -1,1 +1,0 @@
-source/org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.java@1793@1

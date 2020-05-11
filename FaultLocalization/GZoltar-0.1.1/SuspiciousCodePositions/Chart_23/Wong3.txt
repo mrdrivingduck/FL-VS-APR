@@ -1,4 +1,0 @@
-source/org/jfree/chart/renderer/category/MinMaxCategoryRenderer.java@174@1
-source/org/jfree/chart/renderer/category/MinMaxCategoryRenderer.java@171@1
-source/org/jfree/chart/renderer/category/MinMaxCategoryRenderer.java@170@1
-source/org/jfree/chart/renderer/category/MinMaxCategoryRenderer.java@169@1
