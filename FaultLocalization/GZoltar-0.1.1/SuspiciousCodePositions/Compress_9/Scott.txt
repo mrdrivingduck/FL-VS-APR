@@ -1,0 +1,11 @@
+src/main/java/org/apache/commons/compress/archivers/zip/ZipEncodingHelper.java@246@0.2064676617
+src/main/java/org/apache/commons/compress/archivers/zip/ZipEncodingHelper.java@242@0.2064676617
+src/main/java/org/apache/commons/compress/archivers/zip/ZipEncodingHelper.java@213@0.2064676617
+src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveEntry.java@513@0.0957475995
+src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveEntry.java@512@0.0957475995
+src/main/java/org/apache/commons/compress/archivers/ArchiveStreamFactory.java@162@0.0355437666
+src/main/java/org/apache/commons/compress/archivers/ArchiveOutputStream.java@137@0.0078576842
+src/main/java/org/apache/commons/compress/archivers/ArchiveOutputStream.java@135@0.0078576842
+src/main/java/org/apache/commons/compress/archivers/ArchiveOutputStream.java@134@0.0078576842
+src/main/java/org/apache/commons/compress/archivers/ArchiveOutputStream.java@124@0.0078576842
+src/main/java/org/apache/commons/compress/archivers/ArchiveOutputStream.java@123@0.0078576842

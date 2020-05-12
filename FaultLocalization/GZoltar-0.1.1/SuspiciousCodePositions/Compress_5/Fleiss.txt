@@ -1,0 +1,3 @@
+src/main/java/org/apache/commons/compress/archivers/ArchiveStreamFactory.java@121@30.9212328767
+src/main/java/org/apache/commons/compress/archivers/ArchiveStreamFactory.java@116@30.9212328767
+src/main/java/org/apache/commons/compress/archivers/ArchiveStreamFactory.java@123@13.2568493151
