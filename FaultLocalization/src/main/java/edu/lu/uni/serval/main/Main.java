@@ -25,7 +25,7 @@ public class Main {
 //		FileHelper.deleteDirectory(outputPath);
 		String path = Configuration.BUGGY_PROJECTS_PATH;
 
-		String projectName = "Chart_1";
+		String projectName = args[0];
 		FL fl = new FL();
 		fl.locateSuspiciousCode(path, projectName, outputPath);
 
