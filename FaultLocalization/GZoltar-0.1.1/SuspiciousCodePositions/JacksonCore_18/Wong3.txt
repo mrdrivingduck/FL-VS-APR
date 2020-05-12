@@ -1,0 +1,8 @@
+src/main/java/com/fasterxml/jackson/core/json/WriterBasedJsonGenerator.java@492@1
+src/main/java/com/fasterxml/jackson/core/json/WriterBasedJsonGenerator.java@491@1
+src/main/java/com/fasterxml/jackson/core/json/WriterBasedJsonGenerator.java@490@1
+src/main/java/com/fasterxml/jackson/core/json/WriterBasedJsonGenerator.java@489@1
+src/main/java/com/fasterxml/jackson/core/json/WriterBasedJsonGenerator.java@488@1
+src/main/java/com/fasterxml/jackson/core/json/WriterBasedJsonGenerator.java@487@1
+src/main/java/com/fasterxml/jackson/core/json/WriterBasedJsonGenerator.java@486@1
+src/main/java/com/fasterxml/jackson/core/json/WriterBasedJsonGenerator.java@485@1

@@ -912,6 +912,7 @@ src/main/java/org/apache/commons/collections4/queue/CircularFifoQueue.java@288@0
 src/main/java/org/apache/commons/collections4/map/SingletonMap.java@288@0.2439284867
 src/main/java/org/apache/commons/collections4/map/CompositeMap.java@287@0.2439284867
 src/main/java/org/apache/commons/collections4/collection/CompositeCollection.java@287@0.2439284867
+src/main/java/org/apache/commons/collections4/comparators/ComparatorChain.java@285@0.2439284867
 src/main/java/org/apache/commons/collections4/FluentIterable.java@285@0.2439284867
 src/main/java/org/apache/commons/collections4/ListUtils.java@285@0.2439284867
 src/main/java/org/apache/commons/collections4/comparators/FixedOrderComparator.java@285@0.2439284867
@@ -2157,9 +2158,7 @@ src/main/java/org/apache/commons/collections4/set/CompositeSet.java@287@0.243908
 src/main/java/org/apache/commons/collections4/comparators/FixedOrderComparator.java@287@0.2439082278
 src/main/java/org/apache/commons/collections4/set/CompositeSet.java@286@0.2439082278
 src/main/java/org/apache/commons/collections4/collection/CompositeCollection.java@286@0.2439082278
-src/main/java/org/apache/commons/collections4/comparators/ComparatorChain.java@285@0.2439082278
 src/main/java/org/apache/commons/collections4/set/CompositeSet.java@284@0.2439082278
-src/main/java/org/apache/commons/collections4/comparators/ComparatorChain.java@283@0.2439082278
 src/main/java/org/apache/commons/collections4/set/CompositeSet.java@283@0.2439082278
 src/main/java/org/apache/commons/collections4/map/AbstractReferenceMap.java@283@0.2439082278
 src/main/java/org/apache/commons/collections4/list/SetUniqueList.java@282@0.2439082278
@@ -2818,6 +2817,7 @@ src/main/java/org/apache/commons/collections4/list/AbstractLinkedList.java@284@0
 src/main/java/org/apache/commons/collections4/CollectionUtils.java@284@0.2438879658
 src/main/java/org/apache/commons/collections4/comparators/FixedOrderComparator.java@284@0.2438879658
 src/main/java/org/apache/commons/collections4/list/AbstractLinkedList.java@283@0.2438879658
+src/main/java/org/apache/commons/collections4/comparators/ComparatorChain.java@283@0.2438879658
 src/main/java/org/apache/commons/collections4/list/AbstractLinkedList.java@282@0.2438879658
 src/main/java/org/apache/commons/collections4/comparators/ComparatorChain.java@282@0.2438879658
 src/main/java/org/apache/commons/collections4/list/AbstractLinkedList.java@281@0.2438879658
@@ -7174,10 +7174,10 @@ src/main/java/org/apache/commons/collections4/bidimap/AbstractDualBidiMap.java@1
 src/main/java/org/apache/commons/collections4/bidimap/AbstractDualBidiMap.java@177@0.2320117066
 src/main/java/org/apache/commons/collections4/bidimap/AbstractDualBidiMap.java@174@0.2320117066
 src/main/java/org/apache/commons/collections4/bidimap/AbstractDualBidiMap.java@141@0.2317600789
-src/main/java/org/apache/commons/collections4/iterators/AbstractUntypedIteratorDecorator.java@59@0.231614294
-src/main/java/org/apache/commons/collections4/bidimap/AbstractDualBidiMap.java@324@0.2315697819
-src/main/java/org/apache/commons/collections4/bidimap/AbstractDualBidiMap.java@322@0.2315697819
-src/main/java/org/apache/commons/collections4/bidimap/AbstractDualBidiMap.java@321@0.2315697819
+src/main/java/org/apache/commons/collections4/iterators/AbstractUntypedIteratorDecorator.java@59@0.2316365445
+src/main/java/org/apache/commons/collections4/bidimap/AbstractDualBidiMap.java@324@0.2315475203
+src/main/java/org/apache/commons/collections4/bidimap/AbstractDualBidiMap.java@322@0.2315475203
+src/main/java/org/apache/commons/collections4/bidimap/AbstractDualBidiMap.java@321@0.2315475203
 src/main/java/org/apache/commons/collections4/set/UnmodifiableSet.java@58@0.2314117699
 src/main/java/org/apache/commons/collections4/set/UnmodifiableSet.java@53@0.2314117699
 src/main/java/org/apache/commons/collections4/bidimap/AbstractDualBidiMap.java@268@0.2312577833

@@ -1,0 +1,7 @@
+src/main/java/com/fasterxml/jackson/core/filter/FilteringParserDelegate.java@148@0.1428571429
+src/main/java/com/fasterxml/jackson/core/filter/FilteringParserDelegate.java@590@0.0909090909
+src/main/java/com/fasterxml/jackson/core/filter/FilteringParserDelegate.java@589@0.0909090909
+src/main/java/com/fasterxml/jackson/core/filter/FilteringParserDelegate.java@588@0.0909090909
+src/main/java/com/fasterxml/jackson/core/filter/FilteringParserDelegate.java@587@0.0909090909
+src/main/java/com/fasterxml/jackson/core/filter/FilteringParserDelegate.java@240@0.0909090909
+src/main/java/com/fasterxml/jackson/core/filter/FilteringParserDelegate.java@239@0.0909090909

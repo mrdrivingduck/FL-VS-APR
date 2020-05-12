@@ -1,0 +1,17 @@
+src/main/java/org/apache/commons/codec/binary/StringUtils.java@156@0.3477169927
+src/main/java/org/apache/commons/codec/binary/StringUtils.java@152@0.3477169927
+src/main/java/org/apache/commons/codec/binary/BaseNCodec.java@430@0.2837246585
+src/main/java/org/apache/commons/codec/binary/BaseNCodec.java@426@0.2837246585
+src/main/java/org/apache/commons/codec/binary/BaseNCodec.java@425@0.2837246585
+src/main/java/org/apache/commons/codec/binary/BaseNCodec.java@422@0.2837246585
+src/main/java/org/apache/commons/codec/binary/BaseNCodec.java@199@0.0036648283
+src/main/java/org/apache/commons/codec/binary/BaseNCodec.java@197@0.0036648283
+src/main/java/org/apache/commons/codec/binary/BaseNCodec.java@196@0.0036648283
+src/main/java/org/apache/commons/codec/binary/BaseNCodec.java@188@0.0036648283
+src/main/java/org/apache/commons/codec/binary/BaseNCodec.java@182@0.0036648283
+src/main/java/org/apache/commons/codec/binary/BaseNCodec.java@181@0.0036648283
+src/main/java/org/apache/commons/codec/binary/BaseNCodec.java@180@0.0036648283
+src/main/java/org/apache/commons/codec/binary/BaseNCodec.java@179@0.0036648283
+src/main/java/org/apache/commons/codec/binary/BaseNCodec.java@174@0.0036648283
+src/main/java/org/apache/commons/codec/binary/BaseNCodec.java@165@0.0036648283
+src/main/java/org/apache/commons/codec/binary/Base64.java@755@0.0022164123

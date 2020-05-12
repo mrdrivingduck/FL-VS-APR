@@ -1,0 +1,4 @@
+src/main/java/com/fasterxml/jackson/core/util/TextBuffer.java@587@0.3333333333
+src/main/java/com/fasterxml/jackson/core/util/TextBuffer.java@586@0.3333333333
+src/main/java/com/fasterxml/jackson/core/util/TextBuffer.java@584@0.3333333333
+src/main/java/com/fasterxml/jackson/core/util/TextBuffer.java@582@0.3333333333

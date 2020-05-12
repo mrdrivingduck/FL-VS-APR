@@ -237,7 +237,7 @@ src/main/java/org/apache/commons/collections4/map/AbstractHashedMap.java@515@0.0
 src/main/java/org/apache/commons/collections4/map/AbstractHashedMap.java@439@0.0193582774
 src/main/java/org/apache/commons/collections4/map/AbstractHashedMap.java@199@0.0190198402
 src/main/java/org/apache/commons/collections4/collection/PredicatedCollection.java@174@0.0183533448
-src/main/java/org/apache/commons/collections4/collection/AbstractCollectionDecorator.java@92@0.0181851119
+src/main/java/org/apache/commons/collections4/collection/AbstractCollectionDecorator.java@92@0.0181839004
 src/main/java/org/apache/commons/collections4/collection/PredicatedCollection.java@173@0.0181098383
 src/main/java/org/apache/commons/collections4/collection/PredicatedCollection.java@172@0.0179913174
 src/main/java/org/apache/commons/collections4/list/CursorableLinkedList.java@92@0.0179172152
@@ -425,6 +425,8 @@ src/main/java/org/apache/commons/collections4/map/AbstractReferenceMap.java@359@
 src/main/java/org/apache/commons/collections4/map/AbstractReferenceMap.java@358@0.0092052601
 src/main/java/org/apache/commons/collections4/map/AbstractReferenceMap.java@190@0.0092052601
 src/main/java/org/apache/commons/collections4/map/AbstractReferenceMap.java@189@0.0092052601
+src/main/java/org/apache/commons/collections4/trie/AbstractBitwiseTrie.java@131@0.0091945931
+src/main/java/org/apache/commons/collections4/trie/AbstractBitwiseTrie.java@90@0.0091945931
 src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java@460@0.0091812668
 src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java@459@0.0091812668
 src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java@457@0.0091812668
@@ -443,7 +445,6 @@ src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java@200
 src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java@198@0.0091812668
 src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java@196@0.0091812668
 src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java@195@0.0091812668
-src/main/java/org/apache/commons/collections4/trie/AbstractBitwiseTrie.java@131@0.0091812668
 src/main/java/org/apache/commons/collections4/trie/AbstractBitwiseTrie.java@130@0.0091812668
 src/main/java/org/apache/commons/collections4/trie/AbstractBitwiseTrie.java@128@0.0091812668
 src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java@126@0.0091812668
@@ -462,7 +463,6 @@ src/main/java/org/apache/commons/collections4/trie/analyzer/StringKeyAnalyzer.ja
 src/main/java/org/apache/commons/collections4/trie/analyzer/StringKeyAnalyzer.java@95@0.0091812668
 src/main/java/org/apache/commons/collections4/trie/analyzer/StringKeyAnalyzer.java@94@0.0091812668
 src/main/java/org/apache/commons/collections4/trie/AbstractBitwiseTrie.java@93@0.0091812668
-src/main/java/org/apache/commons/collections4/trie/AbstractBitwiseTrie.java@90@0.0091812668
 src/main/java/org/apache/commons/collections4/trie/analyzer/StringKeyAnalyzer.java@89@0.0091812668
 src/main/java/org/apache/commons/collections4/trie/AbstractBitwiseTrie.java@89@0.0091812668
 src/main/java/org/apache/commons/collections4/trie/analyzer/StringKeyAnalyzer.java@88@0.0091812668
@@ -522,7 +522,7 @@ src/main/java/org/apache/commons/collections4/list/AbstractLinkedList.java@538@0
 src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java@232@0.0072430147
 src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java@204@0.0072262867
 src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java@203@0.0072262867
-src/main/java/org/apache/commons/collections4/map/TransformedMap.java@170@0.0070972233
+src/main/java/org/apache/commons/collections4/map/TransformedMap.java@170@0.007081662
 src/main/java/org/apache/commons/collections4/map/TransformedMap.java@237@0.0070357047
 src/main/java/org/apache/commons/collections4/map/TransformedMap.java@236@0.0070357047
 src/main/java/org/apache/commons/collections4/map/TransformedMap.java@235@0.0070357047

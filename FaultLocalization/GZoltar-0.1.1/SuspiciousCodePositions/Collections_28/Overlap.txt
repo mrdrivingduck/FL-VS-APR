@@ -150,10 +150,10 @@ src/main/java/org/apache/commons/collections4/collection/PredicatedCollection.ja
 src/main/java/org/apache/commons/collections4/collection/PredicatedCollection.java@176@1
 src/main/java/org/apache/commons/collections4/collection/PredicatedCollection.java@175@1
 src/main/java/org/apache/commons/collections4/collection/PredicatedCollection.java@174@1
+src/main/java/org/apache/commons/collections4/comparators/ComparableComparator.java@66@1
 src/main/java/org/apache/commons/collections4/ComparatorUtils.java@196@1
 src/main/java/org/apache/commons/collections4/ComparatorUtils.java@193@1
 src/main/java/org/apache/commons/collections4/bag/TreeBag.java@95@1
-src/main/java/org/apache/commons/collections4/comparators/ComparableComparator.java@66@1
 src/main/java/org/apache/commons/collections4/bag/TreeBag.java@88@1
 src/main/java/org/apache/commons/collections4/functors/TruePredicate.java@65@1
 src/main/java/org/apache/commons/collections4/multiset/AbstractMapMultiSet.java@232@1
@@ -397,6 +397,8 @@ src/main/java/org/apache/commons/collections4/trie/analyzer/StringKeyAnalyzer.ja
 src/main/java/org/apache/commons/collections4/trie/KeyAnalyzer.java@58@1
 src/main/java/org/apache/commons/collections4/bag/PredicatedSortedBag.java@42@1
 src/main/java/org/apache/commons/collections4/multimap/AbstractMultiValuedMap.java@102@1
+src/main/java/org/apache/commons/collections4/trie/AbstractBitwiseTrie.java@131@1
+src/main/java/org/apache/commons/collections4/trie/AbstractBitwiseTrie.java@90@1
 src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java@460@1
 src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java@459@1
 src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java@457@1
@@ -415,7 +417,6 @@ src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java@200
 src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java@198@1
 src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java@196@1
 src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java@195@1
-src/main/java/org/apache/commons/collections4/trie/AbstractBitwiseTrie.java@131@1
 src/main/java/org/apache/commons/collections4/trie/AbstractBitwiseTrie.java@130@1
 src/main/java/org/apache/commons/collections4/trie/AbstractBitwiseTrie.java@128@1
 src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java@126@1
@@ -433,7 +434,6 @@ src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java@109
 src/main/java/org/apache/commons/collections4/trie/analyzer/StringKeyAnalyzer.java@96@1
 src/main/java/org/apache/commons/collections4/trie/analyzer/StringKeyAnalyzer.java@95@1
 src/main/java/org/apache/commons/collections4/trie/analyzer/StringKeyAnalyzer.java@94@1
-src/main/java/org/apache/commons/collections4/trie/AbstractBitwiseTrie.java@90@1
 src/main/java/org/apache/commons/collections4/trie/analyzer/StringKeyAnalyzer.java@89@1
 src/main/java/org/apache/commons/collections4/trie/analyzer/StringKeyAnalyzer.java@88@1
 src/main/java/org/apache/commons/collections4/trie/analyzer/StringKeyAnalyzer.java@85@1
@@ -854,12 +854,12 @@ src/main/java/org/apache/commons/collections4/bidimap/TreeBidiMap.java@509@1
 src/main/java/org/apache/commons/collections4/bidimap/TreeBidiMap.java@507@1
 src/main/java/org/apache/commons/collections4/bidimap/TreeBidiMap.java@506@1
 src/main/java/org/apache/commons/collections4/bidimap/TreeBidiMap.java@503@1
+src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java@761@1
 src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java@611@1
 src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java@769@1
 src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java@768@1
 src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java@765@1
 src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java@764@1
-src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java@761@1
 src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java@760@1
 src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java@758@1
 src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java@750@1

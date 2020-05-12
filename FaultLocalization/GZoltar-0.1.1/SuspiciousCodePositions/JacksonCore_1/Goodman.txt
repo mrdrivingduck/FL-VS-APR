@@ -1,0 +1,16 @@
+src/main/java/com/fasterxml/jackson/core/json/ReaderBasedJsonParser.java@1370@1
+src/main/java/com/fasterxml/jackson/core/json/ReaderBasedJsonParser.java@1368@1
+src/main/java/com/fasterxml/jackson/core/json/ReaderBasedJsonParser.java@1367@1
+src/main/java/com/fasterxml/jackson/core/json/ReaderBasedJsonParser.java@1366@0.3333333333
+src/main/java/com/fasterxml/jackson/core/base/ParserBase.java@565@0.3333333333
+src/main/java/com/fasterxml/jackson/core/base/ParserBase.java@564@0.3333333333
+src/main/java/com/fasterxml/jackson/core/base/ParserBase.java@563@0.3333333333
+src/main/java/com/fasterxml/jackson/core/base/ParserBase.java@562@0.3333333333
+src/main/java/com/fasterxml/jackson/core/util/TextBuffer.java@227@0.3333333333
+src/main/java/com/fasterxml/jackson/core/util/TextBuffer.java@225@0.3333333333
+src/main/java/com/fasterxml/jackson/core/util/TextBuffer.java@222@0.3333333333
+src/main/java/com/fasterxml/jackson/core/util/TextBuffer.java@220@0.3333333333
+src/main/java/com/fasterxml/jackson/core/util/TextBuffer.java@219@0.3333333333
+src/main/java/com/fasterxml/jackson/core/util/TextBuffer.java@217@0.3333333333
+src/main/java/com/fasterxml/jackson/core/util/TextBuffer.java@216@0.3333333333
+src/main/java/com/fasterxml/jackson/core/util/TextBuffer.java@215@0.3333333333

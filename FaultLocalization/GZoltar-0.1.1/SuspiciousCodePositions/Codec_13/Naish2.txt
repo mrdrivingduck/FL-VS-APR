@@ -1,0 +1,16 @@
+src/main/java/org/apache/commons/codec/language/bm/NameType.java@28@3
+src/main/java/org/apache/commons/codec/language/bm/NameType.java@28@2
+src/main/java/org/apache/commons/codec/language/DoubleMetaphone.java@893@1.9946808511
+src/main/java/org/apache/commons/codec/language/DoubleMetaphone.java@88@1.9911347518
+src/main/java/org/apache/commons/codec/language/DoubleMetaphone.java@244@1.9893617021
+src/main/java/org/apache/commons/codec/language/DoubleMetaphone.java@892@1.9716312057
+src/main/java/org/apache/commons/codec/language/DoubleMetaphone.java@891@1.9716312057
+src/main/java/org/apache/commons/codec/language/DoubleMetaphone.java@888@1.9680851064
+src/main/java/org/apache/commons/codec/language/DoubleMetaphone.java@87@1.9680851064
+src/main/java/org/apache/commons/codec/language/DoubleMetaphone.java@86@1.9680851064
+src/main/java/org/apache/commons/codec/language/bm/Languages.java@185@1
+src/main/java/org/apache/commons/codec/language/bm/Languages.java@157@1
+src/main/java/org/apache/commons/codec/language/bm/Languages.java@156@1
+src/main/java/org/apache/commons/codec/language/bm/Languages.java@154@1
+src/main/java/org/apache/commons/codec/language/bm/Languages.java@153@1
+src/main/java/org/apache/commons/codec/language/bm/NameType.java@51@1

@@ -179,10 +179,10 @@ src/java/org/apache/commons/codec/language/Metaphone.java@341@16.6177536232
 src/java/org/apache/commons/codec/language/Metaphone.java@340@16.6177536232
 src/java/org/apache/commons/codec/language/Soundex.java@163@16.6177536232
 src/java/org/apache/commons/codec/language/Metaphone.java@131@16.6177536232
-src/java/org/apache/commons/codec/binary/Base64.java@539@14.3405797101
 src/java/org/apache/commons/codec/language/Metaphone.java@344@14.3405797101
 src/java/org/apache/commons/codec/language/Metaphone.java@343@14.3405797101
 src/java/org/apache/commons/codec/binary/StringUtils.java@220@14.3405797101
+src/java/org/apache/commons/codec/binary/Base64.java@539@12.2807971014
 src/java/org/apache/commons/codec/binary/Base64.java@475@12.2807971014
 src/java/org/apache/commons/codec/binary/Base64.java@473@12.2807971014
 src/java/org/apache/commons/codec/binary/Base64.java@472@12.2807971014
@@ -196,7 +196,10 @@ src/java/org/apache/commons/codec/binary/Base64.java@492@10.4275362319
 src/java/org/apache/commons/codec/binary/Base64.java@578@8.7699275362
 src/java/org/apache/commons/codec/binary/Base64.java@577@8.7699275362
 src/java/org/apache/commons/codec/binary/Base64.java@476@8.7699275362
-src/java/org/apache/commons/codec/binary/Base64.java@457@7.2971014493
+src/java/org/apache/commons/codec/binary/Base64.java@575@5.9981884058
+src/java/org/apache/commons/codec/binary/Base64.java@574@5.9981884058
+src/java/org/apache/commons/codec/binary/Base64.java@573@5.9981884058
+src/java/org/apache/commons/codec/binary/Base64.java@457@5.9981884058
 src/java/org/apache/commons/codec/language/Metaphone.java@318@5.9981884058
 src/java/org/apache/commons/codec/language/Metaphone.java@297@5.9981884058
 src/java/org/apache/commons/codec/net/Utils.java@46@5.9981884058
@@ -207,10 +210,6 @@ src/java/org/apache/commons/codec/language/DoubleMetaphone.java@924@5.0362318841
 src/java/org/apache/commons/codec/language/DoubleMetaphone.java@921@5.0362318841
 src/java/org/apache/commons/codec/language/DoubleMetaphone.java@88@5.0362318841
 src/java/org/apache/commons/codec/language/DoubleMetaphone.java@87@5.0362318841
-src/java/org/apache/commons/codec/binary/Base64.java@932@4.8623188406
-src/java/org/apache/commons/codec/binary/Base64.java@575@4.8623188406
-src/java/org/apache/commons/codec/binary/Base64.java@574@4.8623188406
-src/java/org/apache/commons/codec/binary/Base64.java@573@4.8623188406
 src/java/org/apache/commons/codec/language/Metaphone.java@392@4.8623188406
 src/java/org/apache/commons/codec/net/QuotedPrintableCodec.java@178@4.8623188406
 src/java/org/apache/commons/codec/language/DoubleMetaphone.java@928@4.3242753623
@@ -226,6 +225,7 @@ src/java/org/apache/commons/codec/language/DoubleMetaphone.java@97@4.3242753623
 src/java/org/apache/commons/codec/language/DoubleMetaphone.java@95@4.3242753623
 src/java/org/apache/commons/codec/language/DoubleMetaphone.java@93@4.3242753623
 src/java/org/apache/commons/codec/language/DoubleMetaphone.java@92@4.3242753623
+src/java/org/apache/commons/codec/binary/Base64.java@932@3.8786231884
 src/java/org/apache/commons/codec/net/QuotedPrintableCodec.java@184@3.8786231884
 src/java/org/apache/commons/codec/net/QuotedPrintableCodec.java@183@3.8786231884
 src/java/org/apache/commons/codec/net/QuotedPrintableCodec.java@182@3.8786231884
@@ -245,6 +245,9 @@ src/java/org/apache/commons/codec/language/DoubleMetaphone.java@148@3.2481884058
 src/java/org/apache/commons/codec/language/DoubleMetaphone.java@147@3.2481884058
 src/java/org/apache/commons/codec/language/DoubleMetaphone.java@106@3.2481884058
 src/java/org/apache/commons/codec/language/DoubleMetaphone.java@105@3.2481884058
+src/java/org/apache/commons/codec/binary/Base64.java@464@3.0362318841
+src/java/org/apache/commons/codec/binary/Base64.java@462@3.0362318841
+src/java/org/apache/commons/codec/binary/Base64.java@461@3.0362318841
 src/java/org/apache/commons/codec/net/URLCodec.java@358@3.0362318841
 src/java/org/apache/commons/codec/net/URLCodec.java@349@3.0362318841
 src/java/org/apache/commons/codec/language/Metaphone.java@229@3.0362318841
@@ -297,9 +300,8 @@ src/java/org/apache/commons/codec/language/DoubleMetaphone.java@141@2.3405797101
 src/java/org/apache/commons/codec/language/DoubleMetaphone.java@140@2.3405797101
 src/java/org/apache/commons/codec/binary/Base64.java@482@2.3242753623
 src/java/org/apache/commons/codec/binary/Base64.java@481@2.3242753623
-src/java/org/apache/commons/codec/binary/Base64.java@464@2.3242753623
-src/java/org/apache/commons/codec/binary/Base64.java@462@2.3242753623
-src/java/org/apache/commons/codec/binary/Base64.java@461@2.3242753623
+src/java/org/apache/commons/codec/binary/Base64.java@466@2.3242753623
+src/java/org/apache/commons/codec/binary/Base64.java@465@2.3242753623
 src/java/org/apache/commons/codec/language/Metaphone.java@278@2.3242753623
 src/java/org/apache/commons/codec/net/QuotedPrintableCodec.java@159@2.3242753623
 src/java/org/apache/commons/codec/net/QuotedPrintableCodec.java@153@2.3242753623
@@ -392,8 +394,6 @@ src/java/org/apache/commons/codec/language/DoubleMetaphone.java@452@2.0199275362
 src/java/org/apache/commons/codec/language/DoubleMetaphone.java@131@2.0199275362
 src/java/org/apache/commons/codec/language/DoubleMetaphone.java@130@2.0199275362
 src/java/org/apache/commons/codec/language/DoubleMetaphone.java@604@1.9873188406
-src/java/org/apache/commons/codec/binary/Base64.java@466@1.731884058
-src/java/org/apache/commons/codec/binary/Base64.java@465@1.731884058
 src/java/org/apache/commons/codec/language/Metaphone.java@283@1.731884058
 src/java/org/apache/commons/codec/net/QuotedPrintableCodec.java@193@1.731884058
 src/java/org/apache/commons/codec/language/Metaphone.java@164@1.731884058

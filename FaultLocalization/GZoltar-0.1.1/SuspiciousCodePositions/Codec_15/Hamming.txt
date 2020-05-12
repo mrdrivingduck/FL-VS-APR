@@ -1895,7 +1895,6 @@ src/main/java/org/apache/commons/codec/language/Nysiis.java@153@598
 src/main/java/org/apache/commons/codec/language/Nysiis.java@148@598
 src/main/java/org/apache/commons/codec/language/Nysiis.java@139@598
 src/main/java/org/apache/commons/codec/language/Soundex.java@167@597
-src/main/java/org/apache/commons/codec/binary/Base64.java@340@597
 src/main/java/org/apache/commons/codec/language/Nysiis.java@310@597
 src/main/java/org/apache/commons/codec/language/Nysiis.java@301@597
 src/main/java/org/apache/commons/codec/language/Nysiis.java@296@597
@@ -1936,6 +1935,7 @@ src/main/java/org/apache/commons/codec/language/Metaphone.java@355@596
 src/main/java/org/apache/commons/codec/binary/Base64.java@354@596
 src/main/java/org/apache/commons/codec/language/Metaphone.java@353@596
 src/main/java/org/apache/commons/codec/language/Metaphone.java@352@596
+src/main/java/org/apache/commons/codec/binary/Base64.java@340@596
 src/main/java/org/apache/commons/codec/language/Nysiis.java@316@596
 src/main/java/org/apache/commons/codec/language/Nysiis.java@315@596
 src/main/java/org/apache/commons/codec/language/Nysiis.java@292@596
@@ -2096,7 +2096,6 @@ src/main/java/org/apache/commons/codec/language/MatchRatingApproachEncoder.java@
 src/main/java/org/apache/commons/codec/language/MatchRatingApproachEncoder.java@252@580
 src/main/java/org/apache/commons/codec/language/MatchRatingApproachEncoder.java@251@580
 src/main/java/org/apache/commons/codec/language/MatchRatingApproachEncoder.java@250@580
-src/main/java/org/apache/commons/codec/binary/Base64.java@433@579
 src/main/java/org/apache/commons/codec/binary/BaseNCodec.java@312@579
 src/main/java/org/apache/commons/codec/language/MatchRatingApproachEncoder.java@244@579
 src/main/java/org/apache/commons/codec/language/MatchRatingApproachEncoder.java@240@579
@@ -2111,6 +2110,7 @@ src/main/java/org/apache/commons/codec/binary/Hex.java@140@579
 src/main/java/org/apache/commons/codec/binary/Hex.java@110@579
 src/main/java/org/apache/commons/codec/binary/Base64.java@466@578
 src/main/java/org/apache/commons/codec/binary/Base64.java@462@578
+src/main/java/org/apache/commons/codec/binary/Base64.java@433@578
 src/main/java/org/apache/commons/codec/language/MatchRatingApproachEncoder.java@336@578
 src/main/java/org/apache/commons/codec/language/MatchRatingApproachEncoder.java@333@578
 src/main/java/org/apache/commons/codec/language/MatchRatingApproachEncoder.java@332@578

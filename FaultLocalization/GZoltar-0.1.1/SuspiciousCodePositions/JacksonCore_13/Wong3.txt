@@ -1,0 +1,5 @@
+src/main/java/com/fasterxml/jackson/core/base/GeneratorBase.java@173@1
+src/main/java/com/fasterxml/jackson/core/base/GeneratorBase.java@164@1
+src/main/java/com/fasterxml/jackson/core/base/GeneratorBase.java@163@1
+src/main/java/com/fasterxml/jackson/core/base/GeneratorBase.java@162@1
+src/main/java/com/fasterxml/jackson/core/json/JsonGeneratorImpl.java@122@1

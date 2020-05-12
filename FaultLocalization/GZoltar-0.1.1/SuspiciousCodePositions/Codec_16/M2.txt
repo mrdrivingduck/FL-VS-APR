@@ -1,0 +1,11 @@
+src/main/java/org/apache/commons/codec/language/bm/NameType.java@28@0.0053262317
+src/main/java/org/apache/commons/codec/language/bm/NameType.java@51@0.0026560425
+src/main/java/org/apache/commons/codec/language/bm/NameType.java@28@0.0026560425
+src/main/java/org/apache/commons/codec/language/bm/Languages.java@203@0.0013262599
+src/main/java/org/apache/commons/codec/language/bm/Languages.java@175@0.0013262599
+src/main/java/org/apache/commons/codec/language/bm/Languages.java@174@0.0013262599
+src/main/java/org/apache/commons/codec/language/bm/Languages.java@172@0.0013262599
+src/main/java/org/apache/commons/codec/language/bm/Languages.java@171@0.0013262599
+src/main/java/org/apache/commons/codec/language/bm/RuleType.java@26@0.0013262599
+src/main/java/org/apache/commons/codec/language/bm/RuleType.java@26@0.0013262599
+src/main/java/org/apache/commons/codec/binary/Base32.java@537@0.0012755102

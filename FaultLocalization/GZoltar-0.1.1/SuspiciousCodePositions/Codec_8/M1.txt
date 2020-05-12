@@ -1302,12 +1302,12 @@ src/java/org/apache/commons/codec/binary/Base64.java@497@8.2058823529
 src/java/org/apache/commons/codec/binary/Base64.java@496@8.2058823529
 src/java/org/apache/commons/codec/binary/Base64.java@495@8.2058823529
 src/java/org/apache/commons/codec/binary/Base64.java@774@8.2058823529
-src/java/org/apache/commons/codec/binary/Base64.java@538@8.2058823529
 src/java/org/apache/commons/codec/binary/StringUtils.java@129@8.2058823529
 src/java/org/apache/commons/codec/binary/Base64.java@794@7.9428571429
 src/java/org/apache/commons/codec/binary/Base64.java@558@7.9428571429
 src/java/org/apache/commons/codec/binary/Base64.java@557@7.9428571429
 src/java/org/apache/commons/codec/binary/Base64.java@556@7.9428571429
+src/java/org/apache/commons/codec/binary/Base64.java@538@7.9428571429
 src/java/org/apache/commons/codec/binary/Base64.java@500@7.9428571429
 src/java/org/apache/commons/codec/binary/Base64.java@499@7.9428571429
 src/java/org/apache/commons/codec/binary/Base64.java@498@7.9428571429

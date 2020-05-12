@@ -41,7 +41,10 @@ src/java/org/apache/commons/codec/digest/DigestUtils.java@403@164.5
 src/java/org/apache/commons/codec/language/ColognePhonetic.java@401@164.5
 src/java/org/apache/commons/codec/language/ColognePhonetic.java@393@164.5
 src/java/org/apache/commons/codec/binary/Base32.java@392@164.5
+src/java/org/apache/commons/codec/binary/Base64.java@390@164.5
+src/java/org/apache/commons/codec/binary/Base64.java@389@164.5
 src/java/org/apache/commons/codec/language/ColognePhonetic.java@389@164.5
+src/java/org/apache/commons/codec/binary/Base64.java@388@164.5
 src/java/org/apache/commons/codec/digest/DigestUtils.java@388@164.5
 src/java/org/apache/commons/codec/language/ColognePhonetic.java@387@164.5
 src/java/org/apache/commons/codec/net/QuotedPrintableCodec.java@383@164.5

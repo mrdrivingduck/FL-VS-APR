@@ -1,0 +1,12 @@
+src/main/java/com/fasterxml/jackson/core/filter/FilteringParserDelegate.java@139@0.1
+src/main/java/com/fasterxml/jackson/core/base/GeneratorBase.java@185@0.0666666667
+src/main/java/com/fasterxml/jackson/core/base/GeneratorBase.java@176@0.0666666667
+src/main/java/com/fasterxml/jackson/core/base/GeneratorBase.java@175@0.0666666667
+src/main/java/com/fasterxml/jackson/core/base/GeneratorBase.java@174@0.0666666667
+src/main/java/com/fasterxml/jackson/core/json/JsonGeneratorImpl.java@144@0.0666666667
+src/main/java/com/fasterxml/jackson/core/json/JsonGeneratorImpl.java@141@0.0666666667
+src/main/java/com/fasterxml/jackson/core/json/JsonGeneratorImpl.java@140@0.0666666667
+src/main/java/com/fasterxml/jackson/core/filter/TokenFilter.java@210@0.0434782609
+src/main/java/com/fasterxml/jackson/core/filter/FilteringParserDelegate.java@149@0.0434782609
+src/main/java/com/fasterxml/jackson/core/filter/FilteringParserDelegate.java@859@0.0212765957
+src/main/java/com/fasterxml/jackson/core/filter/FilteringParserDelegate.java@853@0.0212765957

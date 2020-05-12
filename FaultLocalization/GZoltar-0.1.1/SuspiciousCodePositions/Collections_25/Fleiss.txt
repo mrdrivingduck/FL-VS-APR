@@ -1,4 +1,4 @@
-src/main/java/org/apache/commons/collections4/collection/AbstractCollectionDecorator.java@92@392090.4436553769
+src/main/java/org/apache/commons/collections4/collection/AbstractCollectionDecorator.java@92@392777.73685032
 src/main/java/org/apache/commons/collections4/map/AbstractMapDecorator.java@73@144062.0258311222
 src/main/java/org/apache/commons/collections4/collection/AbstractCollectionDecorator.java@137@58688.5135008584
 src/main/java/org/apache/commons/collections4/map/AbstractMapDecorator.java@118@36806.7185110036
@@ -9,11 +9,11 @@ src/main/java/org/apache/commons/collections4/collection/AbstractCollectionDecor
 src/main/java/org/apache/commons/collections4/collection/AbstractCollectionDecorator.java@129@10576.8143436866
 src/main/java/org/apache/commons/collections4/map/AbstractMapDecorator.java@90@5874.9180583737
 src/main/java/org/apache/commons/collections4/bidimap/AbstractDualBidiMap.java@139@4122.5794443577
-src/main/java/org/apache/commons/collections4/iterators/AbstractUntypedIteratorDecorator.java@54@4046.5802247542
+src/main/java/org/apache/commons/collections4/iterators/AbstractUntypedIteratorDecorator.java@54@4079.4918058374
 src/main/java/org/apache/commons/collections4/bidimap/AbstractDualBidiMap.java@175@3799.5694552833
 src/main/java/org/apache/commons/collections4/bidimap/AbstractDualBidiMap.java@172@3799.5694552833
 src/main/java/org/apache/commons/collections4/bidimap/AbstractDualBidiMap.java@169@3799.5694552833
-src/main/java/org/apache/commons/collections4/set/AbstractSetDecorator.java@63@3727.0445606368
+src/main/java/org/apache/commons/collections4/set/AbstractSetDecorator.java@63@3758.2213204308
 src/main/java/org/apache/commons/collections4/bidimap/AbstractDualBidiMap.java@177@3706.0387076635
 src/main/java/org/apache/commons/collections4/bidimap/AbstractDualBidiMap.java@176@3706.0387076635
 src/main/java/org/apache/commons/collections4/map/AbstractHashedMap.java@687@2575.920399563
@@ -97,7 +97,7 @@ src/main/java/org/apache/commons/collections4/set/AbstractSetDecorator.java@32@1
 src/main/java/org/apache/commons/collections4/comparators/ComparableComparator.java@65@69.4136881536
 src/main/java/org/apache/commons/collections4/bidimap/AbstractOrderedBidiMapDecorator.java@58@61.3847354456
 src/main/java/org/apache/commons/collections4/map/AbstractMapDecorator.java@127@34.3276884657
-src/main/java/org/apache/commons/collections4/keyvalue/AbstractMapEntryDecorator.java@60@30.0291087873
+src/main/java/org/apache/commons/collections4/keyvalue/AbstractMapEntryDecorator.java@60@32.1554549711
 src/main/java/org/apache/commons/collections4/iterators/AbstractIteratorDecorator.java@44@23.9207117216
 src/main/java/org/apache/commons/collections4/map/ListOrderedMap.java@101@15.9112689246
 src/main/java/org/apache/commons/collections4/map/AbstractHashedMap.java@169@7.9022943655

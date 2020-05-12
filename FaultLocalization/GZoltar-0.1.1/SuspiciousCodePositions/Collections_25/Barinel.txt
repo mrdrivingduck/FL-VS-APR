@@ -479,6 +479,8 @@ src/main/java/org/apache/commons/collections4/list/NodeCachingLinkedList.java@18
 src/main/java/org/apache/commons/collections4/list/NodeCachingLinkedList.java@186@0.009009009
 src/main/java/org/apache/commons/collections4/list/NodeCachingLinkedList.java@137@0.009009009
 src/main/java/org/apache/commons/collections4/list/NodeCachingLinkedList.java@136@0.009009009
+src/main/java/org/apache/commons/collections4/trie/AbstractBitwiseTrie.java@131@0.0089552239
+src/main/java/org/apache/commons/collections4/trie/AbstractBitwiseTrie.java@90@0.0089552239
 src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java@460@0.0089285714
 src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java@459@0.0089285714
 src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java@457@0.0089285714
@@ -497,7 +499,6 @@ src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java@200
 src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java@198@0.0089285714
 src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java@196@0.0089285714
 src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java@195@0.0089285714
-src/main/java/org/apache/commons/collections4/trie/AbstractBitwiseTrie.java@131@0.0089285714
 src/main/java/org/apache/commons/collections4/trie/AbstractBitwiseTrie.java@130@0.0089285714
 src/main/java/org/apache/commons/collections4/trie/AbstractBitwiseTrie.java@128@0.0089285714
 src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java@126@0.0089285714
@@ -516,7 +517,6 @@ src/main/java/org/apache/commons/collections4/trie/analyzer/StringKeyAnalyzer.ja
 src/main/java/org/apache/commons/collections4/trie/analyzer/StringKeyAnalyzer.java@95@0.0089285714
 src/main/java/org/apache/commons/collections4/trie/analyzer/StringKeyAnalyzer.java@94@0.0089285714
 src/main/java/org/apache/commons/collections4/trie/AbstractBitwiseTrie.java@93@0.0089285714
-src/main/java/org/apache/commons/collections4/trie/AbstractBitwiseTrie.java@90@0.0089285714
 src/main/java/org/apache/commons/collections4/trie/analyzer/StringKeyAnalyzer.java@89@0.0089285714
 src/main/java/org/apache/commons/collections4/trie/AbstractBitwiseTrie.java@89@0.0089285714
 src/main/java/org/apache/commons/collections4/trie/analyzer/StringKeyAnalyzer.java@88@0.0089285714
@@ -588,11 +588,11 @@ src/main/java/org/apache/commons/collections4/map/Flat3Map.java@291@0.0082644628
 src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java@232@0.0081967213
 src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java@204@0.0081632653
 src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java@203@0.0081632653
-src/main/java/org/apache/commons/collections4/map/TransformedMap.java@170@0.0079051383
 src/main/java/org/apache/commons/collections4/map/ListOrderedMap.java@226@0.0078947368
 src/main/java/org/apache/commons/collections4/map/ListOrderedMap.java@225@0.0078947368
 src/main/java/org/apache/commons/collections4/map/ListOrderedMap.java@224@0.0078947368
 src/main/java/org/apache/commons/collections4/map/ListOrderedMap.java@219@0.0078947368
+src/main/java/org/apache/commons/collections4/map/TransformedMap.java@170@0.0078740157
 src/main/java/org/apache/commons/collections4/map/Flat3Map.java@175@0.0078125
 src/main/java/org/apache/commons/collections4/map/TransformedMap.java@237@0.0077821012
 src/main/java/org/apache/commons/collections4/map/TransformedMap.java@236@0.0077821012
@@ -641,7 +641,7 @@ src/main/java/org/apache/commons/collections4/multimap/TransformedMultiValuedMap
 src/main/java/org/apache/commons/collections4/multimap/TransformedMultiValuedMap.java@135@0.0051020408
 src/main/java/org/apache/commons/collections4/list/AbstractListDecorator.java@34@0.0050761421
 src/main/java/org/apache/commons/collections4/comparators/ReverseComparator.java@76@0.0050377834
-src/main/java/org/apache/commons/collections4/collection/AbstractCollectionDecorator.java@92@0.0049236829
+src/main/java/org/apache/commons/collections4/collection/AbstractCollectionDecorator.java@92@0.0049212598
 src/main/java/org/apache/commons/collections4/bidimap/TreeBidiMap.java@1311@0.0041152263
 src/main/java/org/apache/commons/collections4/bidimap/TreeBidiMap.java@1302@0.0041152263
 src/main/java/org/apache/commons/collections4/bidimap/TreeBidiMap.java@1298@0.0041152263

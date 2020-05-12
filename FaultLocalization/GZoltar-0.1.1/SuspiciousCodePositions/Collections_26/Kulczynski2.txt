@@ -377,8 +377,6 @@ src/main/java/org/apache/commons/collections4/map/AbstractReferenceMap.java@359@
 src/main/java/org/apache/commons/collections4/map/AbstractReferenceMap.java@358@0.0092052601
 src/main/java/org/apache/commons/collections4/map/AbstractReferenceMap.java@190@0.0092052601
 src/main/java/org/apache/commons/collections4/map/AbstractReferenceMap.java@189@0.0092052601
-src/main/java/org/apache/commons/collections4/trie/AbstractBitwiseTrie.java@131@0.0091945931
-src/main/java/org/apache/commons/collections4/trie/AbstractBitwiseTrie.java@90@0.0091945931
 src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java@460@0.0091812668
 src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java@459@0.0091812668
 src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java@457@0.0091812668
@@ -397,6 +395,7 @@ src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java@200
 src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java@198@0.0091812668
 src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java@196@0.0091812668
 src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java@195@0.0091812668
+src/main/java/org/apache/commons/collections4/trie/AbstractBitwiseTrie.java@131@0.0091812668
 src/main/java/org/apache/commons/collections4/trie/AbstractBitwiseTrie.java@130@0.0091812668
 src/main/java/org/apache/commons/collections4/trie/AbstractBitwiseTrie.java@128@0.0091812668
 src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java@126@0.0091812668
@@ -415,6 +414,7 @@ src/main/java/org/apache/commons/collections4/trie/analyzer/StringKeyAnalyzer.ja
 src/main/java/org/apache/commons/collections4/trie/analyzer/StringKeyAnalyzer.java@95@0.0091812668
 src/main/java/org/apache/commons/collections4/trie/analyzer/StringKeyAnalyzer.java@94@0.0091812668
 src/main/java/org/apache/commons/collections4/trie/AbstractBitwiseTrie.java@93@0.0091812668
+src/main/java/org/apache/commons/collections4/trie/AbstractBitwiseTrie.java@90@0.0091812668
 src/main/java/org/apache/commons/collections4/trie/analyzer/StringKeyAnalyzer.java@89@0.0091812668
 src/main/java/org/apache/commons/collections4/trie/AbstractBitwiseTrie.java@89@0.0091812668
 src/main/java/org/apache/commons/collections4/trie/analyzer/StringKeyAnalyzer.java@88@0.0091812668

@@ -1,0 +1,5 @@
+src/main/java/com/fasterxml/jackson/core/JsonFactory.java@825@0.3333333333
+src/main/java/com/fasterxml/jackson/core/JsonFactory.java@819@0.3333333333
+src/main/java/com/fasterxml/jackson/core/JsonFactory.java@817@0.3333333333
+src/main/java/com/fasterxml/jackson/core/json/ByteSourceJsonBootstrapper.java@501@0.3333333333
+src/main/java/com/fasterxml/jackson/core/JsonLocation.java@89@0.3333333333

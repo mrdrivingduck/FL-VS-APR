@@ -45,7 +45,7 @@ src/main/java/org/apache/commons/collections4/map/AbstractLinkedMap.java@288@1.9
 src/main/java/org/apache/commons/collections4/map/AbstractLinkedMap.java@129@1.95
 src/main/java/org/apache/commons/collections4/map/AbstractLinkedMap.java@128@1.95
 src/main/java/org/apache/commons/collections4/map/AbstractLinkedMap.java@127@1.95
-src/main/java/org/apache/commons/collections4/comparators/ComparableComparator.java@66@1.12
+src/main/java/org/apache/commons/collections4/comparators/ComparableComparator.java@66@1.13
 src/main/java/org/apache/commons/collections4/queue/UnmodifiableQueue.java@60@1.06
 src/main/java/org/apache/commons/collections4/queue/UnmodifiableQueue.java@55@1.06
 src/main/java/org/apache/commons/collections4/queue/TransformedQueue.java@55@1

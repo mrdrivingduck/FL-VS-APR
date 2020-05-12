@@ -1895,7 +1895,6 @@ src/main/java/org/apache/commons/codec/language/Nysiis.java@153@0.7459854015
 src/main/java/org/apache/commons/codec/language/Nysiis.java@148@0.7459854015
 src/main/java/org/apache/commons/codec/language/Nysiis.java@139@0.7459854015
 src/main/java/org/apache/commons/codec/language/Soundex.java@167@0.7430656934
-src/main/java/org/apache/commons/codec/binary/Base64.java@340@0.7430656934
 src/main/java/org/apache/commons/codec/language/Nysiis.java@310@0.7430656934
 src/main/java/org/apache/commons/codec/language/Nysiis.java@301@0.7430656934
 src/main/java/org/apache/commons/codec/language/Nysiis.java@296@0.7430656934
@@ -1936,6 +1935,7 @@ src/main/java/org/apache/commons/codec/language/Metaphone.java@355@0.7401459854
 src/main/java/org/apache/commons/codec/binary/Base64.java@354@0.7401459854
 src/main/java/org/apache/commons/codec/language/Metaphone.java@353@0.7401459854
 src/main/java/org/apache/commons/codec/language/Metaphone.java@352@0.7401459854
+src/main/java/org/apache/commons/codec/binary/Base64.java@340@0.7401459854
 src/main/java/org/apache/commons/codec/language/Nysiis.java@316@0.7401459854
 src/main/java/org/apache/commons/codec/language/Nysiis.java@315@0.7401459854
 src/main/java/org/apache/commons/codec/language/Nysiis.java@292@0.7401459854
@@ -2096,7 +2096,6 @@ src/main/java/org/apache/commons/codec/language/MatchRatingApproachEncoder.java@
 src/main/java/org/apache/commons/codec/language/MatchRatingApproachEncoder.java@252@0.6934306569
 src/main/java/org/apache/commons/codec/language/MatchRatingApproachEncoder.java@251@0.6934306569
 src/main/java/org/apache/commons/codec/language/MatchRatingApproachEncoder.java@250@0.6934306569
-src/main/java/org/apache/commons/codec/binary/Base64.java@433@0.6905109489
 src/main/java/org/apache/commons/codec/binary/BaseNCodec.java@312@0.6905109489
 src/main/java/org/apache/commons/codec/language/MatchRatingApproachEncoder.java@244@0.6905109489
 src/main/java/org/apache/commons/codec/language/MatchRatingApproachEncoder.java@240@0.6905109489
@@ -2111,6 +2110,7 @@ src/main/java/org/apache/commons/codec/binary/Hex.java@140@0.6905109489
 src/main/java/org/apache/commons/codec/binary/Hex.java@110@0.6905109489
 src/main/java/org/apache/commons/codec/binary/Base64.java@466@0.6875912409
 src/main/java/org/apache/commons/codec/binary/Base64.java@462@0.6875912409
+src/main/java/org/apache/commons/codec/binary/Base64.java@433@0.6875912409
 src/main/java/org/apache/commons/codec/language/MatchRatingApproachEncoder.java@336@0.6875912409
 src/main/java/org/apache/commons/codec/language/MatchRatingApproachEncoder.java@333@0.6875912409
 src/main/java/org/apache/commons/codec/language/MatchRatingApproachEncoder.java@332@0.6875912409

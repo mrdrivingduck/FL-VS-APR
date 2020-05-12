@@ -1,0 +1,7 @@
+src/main/java/com/fasterxml/jackson/core/json/async/NonBlockingJsonParser.java@1210@0.0769230769
+src/main/java/com/fasterxml/jackson/core/json/async/NonBlockingJsonParser.java@1209@0.0769230769
+src/main/java/com/fasterxml/jackson/core/json/async/NonBlockingJsonParser.java@1208@0.0769230769
+src/main/java/com/fasterxml/jackson/core/json/async/NonBlockingJsonParser.java@1203@0.0769230769
+src/main/java/com/fasterxml/jackson/core/base/ParserBase.java@609@0.0769230769
+src/main/java/com/fasterxml/jackson/core/base/ParserBase.java@606@0.0769230769
+src/main/java/com/fasterxml/jackson/core/base/ParserBase.java@603@0.0769230769

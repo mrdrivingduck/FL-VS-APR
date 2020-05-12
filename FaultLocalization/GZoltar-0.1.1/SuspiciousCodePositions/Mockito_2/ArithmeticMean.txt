@@ -1,3 +1,3 @@
-org.mockito.Mockito@2203@0.6658823529
-org.mockito.Mockito@2163@0.4964664311
-org.mockito.internal.verification.VerificationModeFactory@25@0.1203791469
+src/org/mockito/Mockito.java@2203@0.6658823529
+src/org/mockito/Mockito.java@2163@0.4964664311
+src/org/mockito/internal/verification/VerificationModeFactory.java@25@0.1203791469

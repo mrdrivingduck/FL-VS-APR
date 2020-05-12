@@ -274,6 +274,8 @@ src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java@130
 src/main/java/org/apache/commons/collections4/trie/analyzer/StringKeyAnalyzer.java@91@0.0094043887
 src/main/java/org/apache/commons/collections4/trie/KeyAnalyzer.java@58@0.0094043887
 src/main/java/org/apache/commons/collections4/collection/TransformedCollection.java@125@0.0092592593
+src/main/java/org/apache/commons/collections4/trie/AbstractBitwiseTrie.java@131@0.0092307692
+src/main/java/org/apache/commons/collections4/trie/AbstractBitwiseTrie.java@90@0.0092307692
 src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java@460@0.0092165899
 src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java@459@0.0092165899
 src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java@457@0.0092165899
@@ -292,7 +294,6 @@ src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java@200
 src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java@198@0.0092165899
 src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java@196@0.0092165899
 src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java@195@0.0092165899
-src/main/java/org/apache/commons/collections4/trie/AbstractBitwiseTrie.java@131@0.0092165899
 src/main/java/org/apache/commons/collections4/trie/AbstractBitwiseTrie.java@130@0.0092165899
 src/main/java/org/apache/commons/collections4/trie/AbstractBitwiseTrie.java@128@0.0092165899
 src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java@126@0.0092165899
@@ -311,7 +312,6 @@ src/main/java/org/apache/commons/collections4/trie/analyzer/StringKeyAnalyzer.ja
 src/main/java/org/apache/commons/collections4/trie/analyzer/StringKeyAnalyzer.java@95@0.0092165899
 src/main/java/org/apache/commons/collections4/trie/analyzer/StringKeyAnalyzer.java@94@0.0092165899
 src/main/java/org/apache/commons/collections4/trie/AbstractBitwiseTrie.java@93@0.0092165899
-src/main/java/org/apache/commons/collections4/trie/AbstractBitwiseTrie.java@90@0.0092165899
 src/main/java/org/apache/commons/collections4/trie/analyzer/StringKeyAnalyzer.java@89@0.0092165899
 src/main/java/org/apache/commons/collections4/trie/AbstractBitwiseTrie.java@89@0.0092165899
 src/main/java/org/apache/commons/collections4/trie/analyzer/StringKeyAnalyzer.java@88@0.0092165899
@@ -362,7 +362,7 @@ src/main/java/org/apache/commons/collections4/map/AbstractReferenceMap.java@263@
 src/main/java/org/apache/commons/collections4/map/AbstractReferenceMap.java@82@0.0085653105
 src/main/java/org/apache/commons/collections4/map/AbstractReferenceMap.java@82@0.0085653105
 src/main/java/org/apache/commons/collections4/map/AbstractReferenceMap.java@82@0.0085653105
-src/main/java/org/apache/commons/collections4/collection/AbstractCollectionDecorator.java@92@0.0085506627
+src/main/java/org/apache/commons/collections4/collection/AbstractCollectionDecorator.java@92@0.0085470085
 src/main/java/org/apache/commons/collections4/map/AbstractReferenceMap.java@384@0.0083160083
 src/main/java/org/apache/commons/collections4/map/AbstractReferenceMap.java@380@0.0083160083
 src/main/java/org/apache/commons/collections4/map/AbstractReferenceMap.java@379@0.0083160083
@@ -396,7 +396,7 @@ src/main/java/org/apache/commons/collections4/list/AbstractLinkedList.java@538@0
 src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java@232@0.0071428571
 src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java@204@0.0071301248
 src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java@203@0.0071301248
-src/main/java/org/apache/commons/collections4/map/TransformedMap.java@170@0.007029877
+src/main/java/org/apache/commons/collections4/map/TransformedMap.java@170@0.0070175439
 src/main/java/org/apache/commons/collections4/map/TransformedMap.java@237@0.0069808028
 src/main/java/org/apache/commons/collections4/map/TransformedMap.java@236@0.0069808028
 src/main/java/org/apache/commons/collections4/map/TransformedMap.java@235@0.0069808028

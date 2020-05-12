@@ -1204,7 +1204,7 @@ src/java/org/apache/commons/codec/language/Metaphone.java@297@17.1464281995
 src/java/org/apache/commons/codec/net/Utils.java@46@17.1464281995
 src/java/org/apache/commons/codec/net/Utils.java@43@17.1464281995
 src/java/org/apache/commons/codec/net/Utils.java@42@17.1464281995
-src/java/org/apache/commons/codec/binary/Base64.java@956@17.0293863659
+src/java/org/apache/commons/codec/binary/Base64.java@956@17.0587221092
 src/java/org/apache/commons/codec/binary/Base64.java@658@17.0293863659
 src/java/org/apache/commons/codec/language/Metaphone.java@336@17.0293863659
 src/java/org/apache/commons/codec/language/Metaphone.java@334@17.0293863659
@@ -1222,6 +1222,7 @@ src/java/org/apache/commons/codec/language/Metaphone.java@131@16.9705627485
 src/java/org/apache/commons/codec/binary/Base64.java@595@16.9410743461
 src/java/org/apache/commons/codec/binary/Base64.java@594@16.9410743461
 src/java/org/apache/commons/codec/binary/Base64.java@593@16.9410743461
+src/java/org/apache/commons/codec/binary/Base64.java@473@16.9410743461
 src/java/org/apache/commons/codec/language/Soundex.java@272@16.9410743461
 src/java/org/apache/commons/codec/language/Soundex.java@270@16.9410743461
 src/java/org/apache/commons/codec/language/Soundex.java@269@16.9410743461
@@ -1235,9 +1236,11 @@ src/java/org/apache/commons/codec/binary/Base64.java@491@16.9115345253
 src/java/org/apache/commons/codec/binary/Base64.java@489@16.9115345253
 src/java/org/apache/commons/codec/binary/Base64.java@488@16.9115345253
 src/java/org/apache/commons/codec/binary/Base64.java@487@16.9115345253
-src/java/org/apache/commons/codec/binary/Base64.java@473@16.9115345253
 src/java/org/apache/commons/codec/language/Metaphone.java@350@16.9115345253
 src/java/org/apache/commons/codec/binary/StringUtils.java@223@16.8819430161
+src/java/org/apache/commons/codec/binary/Base64.java@390@16.8522995464
+src/java/org/apache/commons/codec/binary/Base64.java@389@16.8522995464
+src/java/org/apache/commons/codec/binary/Base64.java@388@16.8522995464
 src/java/org/apache/commons/codec/language/Soundex.java@275@16.8522995464
 src/java/org/apache/commons/codec/language/Soundex.java@266@16.8522995464
 src/java/org/apache/commons/codec/language/Soundex.java@265@16.8522995464
@@ -1254,9 +1257,6 @@ src/java/org/apache/commons/codec/language/Soundex.java@181@16.8522995464
 src/java/org/apache/commons/codec/binary/Base64.java@834@16.8226038413
 src/java/org/apache/commons/codec/binary/Base64.java@833@16.8226038413
 src/java/org/apache/commons/codec/binary/Base64.java@857@16.8226038413
-src/java/org/apache/commons/codec/binary/Base64.java@390@16.8226038413
-src/java/org/apache/commons/codec/binary/Base64.java@389@16.8226038413
-src/java/org/apache/commons/codec/binary/Base64.java@388@16.8226038413
 src/java/org/apache/commons/codec/language/Soundex.java@257@16.8226038413
 src/java/org/apache/commons/codec/language/Soundex.java@256@16.8226038413
 src/java/org/apache/commons/codec/binary/StringUtils.java@65@16.8226038413
@@ -1321,6 +1321,7 @@ src/java/org/apache/commons/codec/binary/Base64.java@506@16.6433169771
 src/java/org/apache/commons/codec/binary/Base64.java@505@16.6433169771
 src/java/org/apache/commons/codec/binary/Base64.java@502@16.6433169771
 src/java/org/apache/commons/codec/binary/Base64.java@501@16.6433169771
+src/java/org/apache/commons/codec/binary/Base64.java@555@16.6433169771
 src/java/org/apache/commons/codec/binary/Base64.java@995@16.6132477258
 src/java/org/apache/commons/codec/binary/Base64.java@988@16.6132477258
 src/java/org/apache/commons/codec/binary/Base64.java@985@16.6132477258
@@ -1331,7 +1332,8 @@ src/java/org/apache/commons/codec/binary/Base64.java@360@16.6132477258
 src/java/org/apache/commons/codec/binary/Base64.java@575@16.6132477258
 src/java/org/apache/commons/codec/binary/Base64.java@574@16.6132477258
 src/java/org/apache/commons/codec/binary/Base64.java@573@16.6132477258
-src/java/org/apache/commons/codec/binary/Base64.java@555@16.6132477258
+src/java/org/apache/commons/codec/binary/Base64.java@392@16.6132477258
+src/java/org/apache/commons/codec/binary/Base64.java@383@16.6132477258
 src/java/org/apache/commons/codec/language/Metaphone.java@88@16.6132477258
 src/java/org/apache/commons/codec/language/SoundexUtils.java@52@16.6132477258
 src/java/org/apache/commons/codec/language/SoundexUtils.java@48@16.6132477258
@@ -1347,8 +1349,6 @@ src/java/org/apache/commons/codec/binary/Base64.java@757@16.5831239518
 src/java/org/apache/commons/codec/binary/Base64.java@756@16.5831239518
 src/java/org/apache/commons/codec/binary/Base64.java@755@16.5831239518
 src/java/org/apache/commons/codec/binary/Base64.java@754@16.5831239518
-src/java/org/apache/commons/codec/binary/Base64.java@392@16.5831239518
-src/java/org/apache/commons/codec/binary/Base64.java@383@16.5831239518
 src/java/org/apache/commons/codec/language/SoundexUtils.java@41@16.5831239518
 src/java/org/apache/commons/codec/binary/StringUtils.java@190@16.5529453572
 src/java/org/apache/commons/codec/binary/StringUtils.java@186@16.5529453572

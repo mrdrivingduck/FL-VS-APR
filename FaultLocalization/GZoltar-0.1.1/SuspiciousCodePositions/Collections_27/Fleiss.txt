@@ -40,13 +40,13 @@ src/main/java/org/apache/commons/collections4/map/AbstractHashedMap.java@278@165
 src/main/java/org/apache/commons/collections4/map/AbstractHashedMap.java@277@1656.0012357121
 src/main/java/org/apache/commons/collections4/map/AbstractHashedMap.java@276@1656.0012357121
 src/main/java/org/apache/commons/collections4/map/AbstractHashedMap.java@275@1656.0012357121
-src/main/java/org/apache/commons/collections4/bidimap/AbstractDualBidiMap.java@324@1586.3717176398
-src/main/java/org/apache/commons/collections4/bidimap/AbstractDualBidiMap.java@322@1586.3717176398
-src/main/java/org/apache/commons/collections4/bidimap/AbstractDualBidiMap.java@321@1586.3717176398
-src/main/java/org/apache/commons/collections4/iterators/AbstractUntypedIteratorDecorator.java@59@1551.2612758727
+src/main/java/org/apache/commons/collections4/bidimap/AbstractDualBidiMap.java@324@1604.1192462156
+src/main/java/org/apache/commons/collections4/bidimap/AbstractDualBidiMap.java@322@1604.1192462156
+src/main/java/org/apache/commons/collections4/bidimap/AbstractDualBidiMap.java@321@1604.1192462156
 src/main/java/org/apache/commons/collections4/iterators/UnmodifiableIterator.java@56@1537.8974358974
 src/main/java/org/apache/commons/collections4/iterators/UnmodifiableIterator.java@51@1537.8974358974
 src/main/java/org/apache/commons/collections4/iterators/UnmodifiableIterator.java@48@1537.8974358974
+src/main/java/org/apache/commons/collections4/iterators/AbstractUntypedIteratorDecorator.java@59@1533.8974358974
 src/main/java/org/apache/commons/collections4/comparators/NullComparator.java@140@1379.1658943466
 src/main/java/org/apache/commons/collections4/collection/AbstractCollectionDecorator.java@150@1227.5803985171
 src/main/java/org/apache/commons/collections4/map/AbstractHashedMap.java@400@1003.7602718567

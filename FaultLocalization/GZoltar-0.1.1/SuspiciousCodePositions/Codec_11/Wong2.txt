@@ -1,0 +1,7 @@
+src/main/java/org/apache/commons/codec/language/bm/NameType.java@28@2
+src/main/java/org/apache/commons/codec/language/bm/Languages.java@187@1
+src/main/java/org/apache/commons/codec/language/bm/Languages.java@159@1
+src/main/java/org/apache/commons/codec/language/bm/Languages.java@158@1
+src/main/java/org/apache/commons/codec/language/bm/Languages.java@156@1
+src/main/java/org/apache/commons/codec/language/bm/Languages.java@155@1
+src/main/java/org/apache/commons/codec/language/bm/NameType.java@51@1

@@ -1,0 +1,6 @@
+src/main/java/com/fasterxml/jackson/core/sym/ByteQuadsCanonicalizer.java@1184@1
+src/main/java/com/fasterxml/jackson/core/sym/ByteQuadsCanonicalizer.java@1183@1
+src/main/java/com/fasterxml/jackson/core/sym/ByteQuadsCanonicalizer.java@936@1
+src/main/java/com/fasterxml/jackson/core/sym/ByteQuadsCanonicalizer.java@932@1
+src/main/java/com/fasterxml/jackson/core/sym/ByteQuadsCanonicalizer.java@931@1
+src/main/java/com/fasterxml/jackson/core/sym/ByteQuadsCanonicalizer.java@642@1

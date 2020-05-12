@@ -1,0 +1,12 @@
+src/main/java/com/fasterxml/jackson/core/util/TextBuffer.java@307@1.0099009901
+src/main/java/com/fasterxml/jackson/core/util/TextBuffer.java@303@1.0095238095
+src/main/java/com/fasterxml/jackson/core/util/TextBuffer.java@302@1.0095238095
+src/main/java/com/fasterxml/jackson/core/util/TextBuffer.java@301@1.0074074074
+src/main/java/com/fasterxml/jackson/core/util/TextBuffer.java@168@1.0047393365
+src/main/java/com/fasterxml/jackson/core/util/TextBuffer.java@165@1.0047393365
+src/main/java/com/fasterxml/jackson/core/util/TextBuffer.java@162@1.0047393365
+src/main/java/com/fasterxml/jackson/core/util/TextBuffer.java@161@1.0047393365
+src/main/java/com/fasterxml/jackson/core/util/TextBuffer.java@160@1.0047393365
+src/main/java/com/fasterxml/jackson/core/util/TextBuffer.java@158@1.0047393365
+src/main/java/com/fasterxml/jackson/core/util/TextBuffer.java@157@1.0047393365
+src/main/java/com/fasterxml/jackson/core/util/TextBuffer.java@156@1.0047393365

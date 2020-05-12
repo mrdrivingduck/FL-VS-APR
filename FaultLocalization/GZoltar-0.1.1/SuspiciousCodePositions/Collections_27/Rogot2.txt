@@ -914,6 +914,7 @@ src/main/java/org/apache/commons/collections4/queue/CircularFifoQueue.java@288@0
 src/main/java/org/apache/commons/collections4/map/SingletonMap.java@288@0.488141146
 src/main/java/org/apache/commons/collections4/map/CompositeMap.java@287@0.488141146
 src/main/java/org/apache/commons/collections4/collection/CompositeCollection.java@287@0.488141146
+src/main/java/org/apache/commons/collections4/comparators/ComparatorChain.java@285@0.488141146
 src/main/java/org/apache/commons/collections4/FluentIterable.java@285@0.488141146
 src/main/java/org/apache/commons/collections4/ListUtils.java@285@0.488141146
 src/main/java/org/apache/commons/collections4/comparators/FixedOrderComparator.java@285@0.488141146
@@ -2159,9 +2160,7 @@ src/main/java/org/apache/commons/collections4/set/CompositeSet.java@287@0.488098
 src/main/java/org/apache/commons/collections4/comparators/FixedOrderComparator.java@287@0.4880987881
 src/main/java/org/apache/commons/collections4/set/CompositeSet.java@286@0.4880987881
 src/main/java/org/apache/commons/collections4/collection/CompositeCollection.java@286@0.4880987881
-src/main/java/org/apache/commons/collections4/comparators/ComparatorChain.java@285@0.4880987881
 src/main/java/org/apache/commons/collections4/set/CompositeSet.java@284@0.4880987881
-src/main/java/org/apache/commons/collections4/comparators/ComparatorChain.java@283@0.4880987881
 src/main/java/org/apache/commons/collections4/set/CompositeSet.java@283@0.4880987881
 src/main/java/org/apache/commons/collections4/map/AbstractReferenceMap.java@283@0.4880987881
 src/main/java/org/apache/commons/collections4/list/SetUniqueList.java@282@0.4880987881
@@ -2820,6 +2819,7 @@ src/main/java/org/apache/commons/collections4/list/AbstractLinkedList.java@284@0
 src/main/java/org/apache/commons/collections4/CollectionUtils.java@284@0.4880564297
 src/main/java/org/apache/commons/collections4/comparators/FixedOrderComparator.java@284@0.4880564297
 src/main/java/org/apache/commons/collections4/list/AbstractLinkedList.java@283@0.4880564297
+src/main/java/org/apache/commons/collections4/comparators/ComparatorChain.java@283@0.4880564297
 src/main/java/org/apache/commons/collections4/list/AbstractLinkedList.java@282@0.4880564297
 src/main/java/org/apache/commons/collections4/comparators/ComparatorChain.java@282@0.4880564297
 src/main/java/org/apache/commons/collections4/list/AbstractLinkedList.java@281@0.4880564297
@@ -7174,12 +7174,12 @@ src/main/java/org/apache/commons/collections4/bidimap/AbstractDualBidiMap.java@1
 src/main/java/org/apache/commons/collections4/bidimap/AbstractDualBidiMap.java@174@0.4653493857
 src/main/java/org/apache/commons/collections4/bidimap/AbstractDualBidiMap.java@141@0.4648953184
 src/main/java/org/apache/commons/collections4/collection/AbstractCollectionDecorator.java@150@0.464324078
+src/main/java/org/apache/commons/collections4/iterators/AbstractUntypedIteratorDecorator.java@59@0.4635122684
 src/main/java/org/apache/commons/collections4/set/UnmodifiableSet.java@58@0.4634848967
 src/main/java/org/apache/commons/collections4/set/UnmodifiableSet.java@53@0.4634848967
-src/main/java/org/apache/commons/collections4/iterators/AbstractUntypedIteratorDecorator.java@59@0.4634695341
-src/main/java/org/apache/commons/collections4/bidimap/AbstractDualBidiMap.java@324@0.4633840633
-src/main/java/org/apache/commons/collections4/bidimap/AbstractDualBidiMap.java@322@0.4633840633
-src/main/java/org/apache/commons/collections4/bidimap/AbstractDualBidiMap.java@321@0.4633840633
+src/main/java/org/apache/commons/collections4/bidimap/AbstractDualBidiMap.java@324@0.4633413268
+src/main/java/org/apache/commons/collections4/bidimap/AbstractDualBidiMap.java@322@0.4633413268
+src/main/java/org/apache/commons/collections4/bidimap/AbstractDualBidiMap.java@321@0.4633413268
 src/main/java/org/apache/commons/collections4/bidimap/AbstractDualBidiMap.java@268@0.4627856839
 src/main/java/org/apache/commons/collections4/bidimap/AbstractDualBidiMap.java@266@0.4627856839
 src/main/java/org/apache/commons/collections4/bidimap/AbstractDualBidiMap.java@265@0.4627856839

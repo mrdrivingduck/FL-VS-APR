@@ -1,6 +1,6 @@
-src/main/java/org/apache/commons/codec/digest/HmacAlgorithms.java@101@26.6666666667
-src/main/java/org/apache/commons/codec/digest/HmacUtils.java@87@1
-src/main/java/org/apache/commons/codec/digest/HmacUtils.java@86@1
+src/main/java/org/apache/commons/codec/binary/StringUtils.java@78@2
+src/main/java/org/apache/commons/codec/binary/StringUtils.java@75@2
+src/main/java/org/apache/commons/codec/binary/StringUtils.java@72@2
 src/main/java/org/apache/commons/codec/binary/StringUtils.java@81@1
 src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java@77@1
 src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java@63@1
@@ -13,8 +13,4 @@ src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java@55@1
 src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java@54@1
 src/main/java/org/apache/commons/codec/binary/CharSequenceUtils.java@51@1
 src/main/java/org/apache/commons/codec/digest/MessageDigestAlgorithms.java@139@1
-src/main/java/org/apache/commons/codec/digest/HmacAlgorithms.java@117@1
-src/main/java/org/apache/commons/codec/binary/StringUtils.java@78@1
-src/main/java/org/apache/commons/codec/binary/StringUtils.java@75@1
-src/main/java/org/apache/commons/codec/binary/StringUtils.java@72@1
 src/main/java/org/apache/commons/codec/binary/StringUtils.java@76@1

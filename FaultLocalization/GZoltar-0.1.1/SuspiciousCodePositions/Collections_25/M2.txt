@@ -43,7 +43,7 @@ src/main/java/org/apache/commons/collections4/list/AbstractLinkedList.java@98@0.
 src/main/java/org/apache/commons/collections4/bag/AbstractMapBag.java@168@0.001150748
 src/main/java/org/apache/commons/collections4/bag/AbstractMapBag.java@44@0.001150748
 src/main/java/org/apache/commons/collections4/bag/AbstractMapBag.java@44@0.001150748
-src/main/java/org/apache/commons/collections4/collection/AbstractCollectionDecorator.java@92@0.0011446886
+src/main/java/org/apache/commons/collections4/collection/AbstractCollectionDecorator.java@92@0.0011445576
 src/main/java/org/apache/commons/collections4/map/AbstractLinkedMap.java@284@0.0011342691
 src/main/java/org/apache/commons/collections4/map/AbstractLinkedMap.java@129@0.0011342691
 src/main/java/org/apache/commons/collections4/map/AbstractLinkedMap.java@128@0.0011342691
@@ -238,6 +238,8 @@ src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java@134
 src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java@130@0.0004260153
 src/main/java/org/apache/commons/collections4/trie/analyzer/StringKeyAnalyzer.java@91@0.0004260153
 src/main/java/org/apache/commons/collections4/trie/KeyAnalyzer.java@58@0.0004260153
+src/main/java/org/apache/commons/collections4/trie/AbstractBitwiseTrie.java@131@0.0004252906
+src/main/java/org/apache/commons/collections4/trie/AbstractBitwiseTrie.java@90@0.0004252906
 src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java@460@0.0004252303
 src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java@459@0.0004252303
 src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java@457@0.0004252303
@@ -256,7 +258,6 @@ src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java@200
 src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java@198@0.0004252303
 src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java@196@0.0004252303
 src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java@195@0.0004252303
-src/main/java/org/apache/commons/collections4/trie/AbstractBitwiseTrie.java@131@0.0004252303
 src/main/java/org/apache/commons/collections4/trie/AbstractBitwiseTrie.java@130@0.0004252303
 src/main/java/org/apache/commons/collections4/trie/AbstractBitwiseTrie.java@128@0.0004252303
 src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java@126@0.0004252303
@@ -275,7 +276,6 @@ src/main/java/org/apache/commons/collections4/trie/analyzer/StringKeyAnalyzer.ja
 src/main/java/org/apache/commons/collections4/trie/analyzer/StringKeyAnalyzer.java@95@0.0004252303
 src/main/java/org/apache/commons/collections4/trie/analyzer/StringKeyAnalyzer.java@94@0.0004252303
 src/main/java/org/apache/commons/collections4/trie/AbstractBitwiseTrie.java@93@0.0004252303
-src/main/java/org/apache/commons/collections4/trie/AbstractBitwiseTrie.java@90@0.0004252303
 src/main/java/org/apache/commons/collections4/trie/analyzer/StringKeyAnalyzer.java@89@0.0004252303
 src/main/java/org/apache/commons/collections4/trie/AbstractBitwiseTrie.java@89@0.0004252303
 src/main/java/org/apache/commons/collections4/trie/analyzer/StringKeyAnalyzer.java@88@0.0004252303
@@ -396,7 +396,7 @@ src/main/java/org/apache/commons/collections4/list/AbstractLinkedList.java@538@0
 src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java@232@0.00028715
 src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java@204@0.0002871088
 src/main/java/org/apache/commons/collections4/trie/AbstractPatriciaTrie.java@203@0.0002871088
-src/main/java/org/apache/commons/collections4/map/TransformedMap.java@170@0.0002867795
+src/main/java/org/apache/commons/collections4/map/TransformedMap.java@170@0.0002867384
 src/main/java/org/apache/commons/collections4/map/TransformedMap.java@237@0.0002866151
 src/main/java/org/apache/commons/collections4/map/TransformedMap.java@236@0.0002866151
 src/main/java/org/apache/commons/collections4/map/TransformedMap.java@235@0.0002866151
