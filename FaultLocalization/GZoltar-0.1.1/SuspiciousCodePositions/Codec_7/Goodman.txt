@@ -1,0 +1,2 @@
+src/java/org/apache/commons/codec/binary/Base64.java@934@0.3333333333
+src/java/org/apache/commons/codec/binary/Base64.java@670@0.3333333333

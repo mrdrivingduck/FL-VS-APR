@@ -1,0 +1,3 @@
+src/main/java/org/apache/commons/codec/digest/HmacUtils.java@87@143.1086404066
+src/main/java/org/apache/commons/codec/digest/HmacUtils.java@86@143.1086404066
+src/main/java/org/apache/commons/codec/digest/HmacAlgorithms.java@101@142.0285895807

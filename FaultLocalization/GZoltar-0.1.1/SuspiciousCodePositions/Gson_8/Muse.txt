@@ -1,0 +1,6 @@
+gson/src/main/java/com/google/gson/internal/UnsafeAllocator.java@44@1.8222222222
+gson/src/main/java/com/google/gson/internal/UnsafeAllocator.java@43@1.8222222222
+gson/src/main/java/com/google/gson/internal/UnsafeAllocator.java@42@1.8222222222
+gson/src/main/java/com/google/gson/internal/UnsafeAllocator.java@41@1.8222222222
+gson/src/main/java/com/google/gson/internal/UnsafeAllocator.java@40@1.8222222222
+gson/src/main/java/com/google/gson/internal/UnsafeAllocator.java@39@1.8222222222

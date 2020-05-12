@@ -1,0 +1,12 @@
+src/main/java/org/apache/commons/csv/CSVLexer.java@217@1
+src/main/java/org/apache/commons/csv/CSVLexer.java@215@1
+src/main/java/org/apache/commons/csv/CSVLexer.java@212@1
+src/main/java/org/apache/commons/csv/CSVLexer.java@211@1
+src/main/java/org/apache/commons/csv/Lexer.java@111@0.9
+src/main/java/org/apache/commons/csv/CSVLexer.java@170@0.2
+src/main/java/org/apache/commons/csv/CSVLexer.java@169@0.2
+src/main/java/org/apache/commons/csv/CSVLexer.java@167@0.2
+src/main/java/org/apache/commons/csv/CSVLexer.java@164@0.2
+src/main/java/org/apache/commons/csv/CSVLexer.java@163@0.19
+src/main/java/org/apache/commons/csv/Lexer.java@90@0.19
+src/main/java/org/apache/commons/csv/Lexer.java@89@0.19

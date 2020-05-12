@@ -1,0 +1,14 @@
+src/main/java/org/apache/commons/csv/CSVFormat.java@669@0.3333333333
+src/main/java/org/apache/commons/csv/CSVFormat.java@668@0.0666666667
+src/main/java/org/apache/commons/csv/CSVFormat.java@667@0.0666666667
+src/main/java/org/apache/commons/csv/CSVFormat.java@666@0.0666666667
+src/main/java/org/apache/commons/csv/CSVFormat.java@773@0.0555555556
+src/main/java/org/apache/commons/csv/CSVFormat.java@505@0.0212765957
+src/main/java/org/apache/commons/csv/CSVFormat.java@665@0.012195122
+src/main/java/org/apache/commons/csv/CSVFormat.java@661@0.0120481928
+src/main/java/org/apache/commons/csv/CSVFormat.java@656@0.0117647059
+src/main/java/org/apache/commons/csv/CSVFormat.java@651@0.0114942529
+src/main/java/org/apache/commons/csv/CSVFormat.java@646@0.0113636364
+src/main/java/org/apache/commons/csv/CSVFormat.java@641@0.0112359551
+src/main/java/org/apache/commons/csv/CSVFormat.java@636@0.0111111111
+src/main/java/org/apache/commons/csv/CSVFormat.java@243@0.0092592593

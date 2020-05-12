@@ -1,0 +1,7 @@
+src/main/java/org/apache/commons/csv/CSVFormat.java@915@0.5848802997
+src/main/java/org/apache/commons/csv/CSVFormat.java@1295@0.5515047683
+src/main/java/org/apache/commons/csv/CSVRecord.java@79@0.0770537498
+src/main/java/org/apache/commons/csv/CSVFormat.java@1018@0.020411323
+src/main/java/org/apache/commons/csv/CSVParser.java@506@0.0089452189
+src/main/java/org/apache/commons/csv/Lexer.java@401@0.0089452189
+src/main/java/org/apache/commons/csv/ExtendedBufferedReader.java@174@0.0089452189
