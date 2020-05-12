@@ -1,0 +1,3 @@
+org.jsoup.parser.CharacterReader@101@1
+org.jsoup.parser.CharacterReader@100@1
+org.jsoup.parser.CharacterReader@99@1

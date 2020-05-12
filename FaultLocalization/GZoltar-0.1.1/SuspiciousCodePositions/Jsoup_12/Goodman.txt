@@ -1,0 +1,3 @@
+org.jsoup.select.Selector@187@1
+org.jsoup.select.Selector@149@0.3333333333
+org.jsoup.select.Selector@148@0.3333333333

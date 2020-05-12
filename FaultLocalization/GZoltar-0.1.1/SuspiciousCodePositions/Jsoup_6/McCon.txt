@@ -1,0 +1,14 @@
+org.jsoup.helper.DataUtil@39@0.5
+org.jsoup.nodes.Entities@61@0.2857142857
+org.jsoup.nodes.Entities@59@0.2857142857
+org.jsoup.nodes.Entities@58@0.2857142857
+org.jsoup.nodes.Entities@70@0.1333333333
+org.jsoup.nodes.Entities@69@0.1333333333
+org.jsoup.nodes.Entities@68@0.1333333333
+org.jsoup.nodes.Entities@56@0.1333333333
+org.jsoup.nodes.Entities@55@0.1333333333
+org.jsoup.nodes.Entities@54@0.1333333333
+org.jsoup.nodes.Entities@53@0.1176470588
+org.jsoup.nodes.Entities@50@0.1176470588
+org.jsoup.nodes.Entities@49@0.1176470588
+org.jsoup.nodes.Entities@46@0.011299435

@@ -1,0 +1,2 @@
+org.jsoup.select.QueryParser@196@1
+org.jsoup.select.QueryParser@193@0.3333333333

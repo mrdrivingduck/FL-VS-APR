@@ -1,0 +1,14 @@
+org.apache.commons.lang.LocaleUtils@116@1.3333333333
+org.apache.commons.lang.LocaleUtils@115@1.2
+org.apache.commons.lang.LocaleUtils@114@1.2
+org.apache.commons.lang.LocaleUtils@113@1.2
+org.apache.commons.lang.LocaleUtils@110@1.2
+org.apache.commons.lang.LocaleUtils@107@1.1428571429
+org.apache.commons.lang.LocaleUtils@104@1.1428571429
+org.apache.commons.lang.LocaleUtils@103@1.1428571429
+org.apache.commons.lang.LocaleUtils@102@1.1428571429
+org.apache.commons.lang.LocaleUtils@99@1.1428571429
+org.apache.commons.lang.LocaleUtils@98@1.1428571429
+org.apache.commons.lang.LocaleUtils@95@1.1428571429
+org.apache.commons.lang.LocaleUtils@223@1.0434782609
+org.apache.commons.lang.LocaleUtils@192@1.0434782609

@@ -1,0 +1,4 @@
+org.jfree.chart.renderer.GrayPaintScale@128@0.0006138735
+org.jfree.chart.renderer.GrayPaintScale@126@0.0006138735
+org.jfree.chart.renderer.GrayPaintScale@125@0.0006138735
+org.jfree.chart.renderer.GrayPaintScale@124@0.0006138735

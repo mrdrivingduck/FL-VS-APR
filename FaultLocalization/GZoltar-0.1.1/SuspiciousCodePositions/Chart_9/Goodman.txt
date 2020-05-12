@@ -1,0 +1,16 @@
+org.jfree.data.time.TimeSeries@953@0.3333333333
+org.jfree.data.time.TimeSeries@947@0.3333333333
+org.jfree.data.time.TimeSeries@944@0.3333333333
+org.jfree.data.time.TimeSeries@942@0.3333333333
+org.jfree.data.time.TimeSeries@941@0.3333333333
+org.jfree.data.time.TimeSeries@940@0.3333333333
+org.jfree.data.time.TimeSeries@939@0.3333333333
+org.jfree.data.time.TimeSeries@935@0.3333333333
+org.jfree.data.time.TimeSeries@934@0.3333333333
+org.jfree.data.time.TimeSeries@933@0.3333333333
+org.jfree.data.time.TimeSeries@932@0.3333333333
+org.jfree.data.time.TimeSeries@931@0.3333333333
+org.jfree.data.time.TimeSeries@927@0.3333333333
+org.jfree.data.time.TimeSeries@924@0.3333333333
+org.jfree.data.time.TimeSeries@921@0.3333333333
+org.jfree.data.time.TimeSeries@883@0.3333333333

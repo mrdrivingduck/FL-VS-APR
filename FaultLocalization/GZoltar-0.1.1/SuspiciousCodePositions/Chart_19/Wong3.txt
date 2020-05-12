@@ -1,0 +1,6 @@
+org.jfree.chart.plot.CategoryPlot@981@1
+org.jfree.chart.plot.CategoryPlot@976@1
+org.jfree.chart.plot.CategoryPlot@975@1
+org.jfree.chart.plot.CategoryPlot@974@1
+org.jfree.chart.plot.CategoryPlot@973@1
+org.jfree.chart.plot.CategoryPlot@698@1

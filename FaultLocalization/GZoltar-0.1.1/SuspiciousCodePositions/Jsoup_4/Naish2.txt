@@ -1,0 +1,10 @@
+org.jsoup.nodes.Entities@37@1.9739583333
+org.jsoup.nodes.Entities@39@1.7135416667
+org.jsoup.nodes.Entities@38@1.7135416667
+org.jsoup.nodes.Entities@36@1.7135416667
+org.jsoup.nodes.Entities@35@1.7135416667
+org.jsoup.nodes.Entities@44@1.7083333333
+org.jsoup.nodes.Entities@34@1.7083333333
+org.jsoup.nodes.Entities@32@1.7083333333
+org.jsoup.nodes.Entities@31@1.7083333333
+org.jsoup.nodes.Entities@41@0.9895833333

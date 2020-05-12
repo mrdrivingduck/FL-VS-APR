@@ -1,0 +1,12 @@
+org.mockito.internal.util.reflection.GenericMaster@20@0.7692307692
+org.mockito.internal.util.reflection.GenericMaster@19@0.7692307692
+org.mockito.internal.util.reflection.GenericMaster@18@0.5882352941
+org.mockito.internal.util.reflection.GenericMaster@17@0.5882352941
+org.mockito.internal.configuration.DefaultAnnotationEngine@77@0.5428571429
+org.mockito.internal.configuration.DefaultAnnotationEngine@76@0.5428571429
+org.mockito.internal.configuration.DefaultAnnotationEngine@71@0.5
+org.mockito.internal.configuration.DefaultAnnotationEngine@70@0.5
+org.mockito.internal.configuration.DefaultAnnotationEngine@42@0.5
+org.mockito.ArgumentCaptor@123@0.2333333333
+org.mockito.internal.configuration.DefaultAnnotationEngine@41@0.1093023256
+org.mockito.internal.configuration.DefaultAnnotationEngine@38@0.1093023256

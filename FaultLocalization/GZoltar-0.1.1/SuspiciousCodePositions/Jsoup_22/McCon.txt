@@ -1,0 +1,16 @@
+org.jsoup.nodes.Node@445@0.6666666667
+org.jsoup.nodes.Element@435@0.3333333333
+org.jsoup.nodes.Element@24@0.0135135135
+org.jsoup.nodes.Element@142@0.0120481928
+org.jsoup.nodes.Node@487@0.0119047619
+org.jsoup.parser.Tag@59@0.0109090909
+org.jsoup.parser.Tag@53@0.0109090909
+org.jsoup.parser.Tag@52@0.0109090909
+org.jsoup.parser.Tag@51@0.0109090909
+org.jsoup.parser.Tag@49@0.0108695652
+org.jsoup.parser.Tag@48@0.0108695652
+org.jsoup.parser.Tag@47@0.0108303249
+org.jsoup.helper.Validate@93@0.0107526882
+org.jsoup.helper.Validate@91@0.0106761566
+org.jsoup.helper.Validate@17@0.0102739726
+org.jsoup.helper.Validate@15@0.0102389078

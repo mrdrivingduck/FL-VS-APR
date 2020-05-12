@@ -1,0 +1,7 @@
+org.jsoup.parser.Parser@207@0.921847734
+org.jsoup.parser.HtmlTreeBuilder@60@0.2013085443
+org.jsoup.parser.ParseErrorList@28@0.154835404
+org.jsoup.helper.Validate@93@0.1347005341
+org.jsoup.helper.Validate@91@0.1316030342
+org.jsoup.helper.Validate@17@0.0417931884
+org.jsoup.helper.Validate@15@0.0402450128

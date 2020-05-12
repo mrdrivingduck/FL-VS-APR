@@ -1,0 +1,10 @@
+org.jfree.chart.util.AbstractObjectList@216@1
+org.jfree.chart.util.ShapeList@165@1
+org.jfree.chart.util.ShapeList@164@1
+org.jfree.chart.util.ShapeList@163@1
+org.jfree.chart.util.ShapeList@143@1
+org.jfree.chart.util.ShapeList@140@1
+org.jfree.chart.util.ShapeList@139@1
+org.jfree.chart.util.ShapeList@138@1
+org.jfree.chart.util.ShapeList@137@1
+org.jfree.chart.util.ShapeList@121@1

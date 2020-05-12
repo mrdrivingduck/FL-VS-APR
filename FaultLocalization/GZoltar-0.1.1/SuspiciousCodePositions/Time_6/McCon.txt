@@ -1,0 +1,15 @@
+org.joda.time.IllegalFieldValueException@314@0.0625
+org.joda.time.chrono.JulianChronology@81@0.03125
+org.joda.time.chrono.JulianChronology@80@0.03125
+org.joda.time.PeriodType@316@0.03125
+org.joda.time.PeriodType@312@0.03125
+org.joda.time.PeriodType@311@0.03125
+org.joda.time.PeriodType@310@0.03125
+org.joda.time.PeriodType@307@0.03125
+org.joda.time.chrono.CopticChronology@144@0.03125
+org.joda.time.chrono.CopticChronology@142@0.03125
+org.joda.time.chrono.CopticChronology@141@0.03125
+org.joda.time.chrono.CopticChronology@140@0.03125
+org.joda.time.chrono.CopticChronology@138@0.03125
+org.joda.time.field.UnsupportedDateTimeField@57@0.03125
+org.joda.time.field.UnsupportedDateTimeField@56@0.03125

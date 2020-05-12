@@ -1,0 +1,4 @@
+org.jfree.chart.plot.Marker@265@0.9975918122
+org.jfree.chart.plot.Marker@238@0.9845513963
+org.jfree.chart.plot.Marker@211@0.9827995255
+org.jfree.chart.plot.ValueMarker@107@0.9822169532

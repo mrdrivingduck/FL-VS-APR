@@ -1,0 +1,8 @@
+org.joda.time.PeriodType@316@0.03125
+org.joda.time.PeriodType@307@0.03125
+org.joda.time.chrono.CopticChronology@144@0.03125
+org.joda.time.chrono.CopticChronology@141@0.03125
+org.joda.time.chrono.CopticChronology@140@0.03125
+org.joda.time.chrono.CopticChronology@138@0.03125
+org.joda.time.field.UnsupportedDateTimeField@57@0.03125
+org.joda.time.field.UnsupportedDateTimeField@56@0.03125

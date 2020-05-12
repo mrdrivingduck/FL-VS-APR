@@ -1,0 +1,5 @@
+org.jfree.data.DataUtilities@133@0.0666666667
+org.jfree.data.DataUtilities@130@0.0666666667
+org.jfree.data.DataUtilities@129@0.0666666667
+org.jfree.data.DataUtilities@128@0.0666666667
+org.jfree.data.DataUtilities@125@0.0666666667

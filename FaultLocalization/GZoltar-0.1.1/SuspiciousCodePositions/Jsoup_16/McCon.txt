@@ -1,0 +1,17 @@
+org.jsoup.nodes.DocumentType@37@0.5
+org.jsoup.nodes.DocumentType@35@0.5
+org.jsoup.nodes.Node@96@0.1
+org.jsoup.nodes.Node@95@0.1
+org.jsoup.nodes.Attributes@48@0.0444444444
+org.jsoup.nodes.Attributes@47@0.0444444444
+org.jsoup.nodes.Attributes@46@0.0444444444
+org.jsoup.nodes.Attributes@59@0.012987013
+org.jsoup.nodes.Attributes@58@0.012987013
+org.jsoup.nodes.Attributes@57@0.012987013
+org.jsoup.nodes.Attributes@56@0.012987013
+org.jsoup.nodes.Attributes@55@0.012987013
+org.jsoup.nodes.Attribute@33@0.012987013
+org.jsoup.helper.Validate@93@0.008097166
+org.jsoup.helper.Validate@91@0.0080645161
+org.jsoup.helper.Validate@17@0.0078740157
+org.jsoup.helper.Validate@15@0.0078431373

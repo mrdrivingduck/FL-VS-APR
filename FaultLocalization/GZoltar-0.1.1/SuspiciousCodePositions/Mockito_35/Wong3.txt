@@ -1,0 +1,12 @@
+org.mockito.internal.progress.ArgumentMatcherStorageImpl@112@0.6
+org.mockito.internal.progress.ArgumentMatcherStorageImpl@111@0.6
+org.mockito.internal.progress.MockingProgressImpl@100@0.6
+org.mockito.internal.progress.MockingProgressImpl@99@0.6
+org.mockito.internal.progress.MockingProgressImpl@98@0.6
+org.mockito.internal.progress.MockingProgressImpl@97@0.6
+org.mockito.internal.progress.ThreadSafeMockingProgress@59@0.6
+org.mockito.internal.progress.ThreadSafeMockingProgress@58@0.6
+org.mockito.internal.progress.HandyReturnValues@28@0.54
+org.mockito.internal.stubbing.defaultanswers.ReturnsEmptyValues@118@0.35
+org.mockito.internal.stubbing.defaultanswers.ReturnsEmptyValues@115@0.35
+org.mockito.Matchers@717@0.08
