@@ -1,0 +1,7 @@
+src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java@120@0.0526315789
+src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java@118@0.0526315789
+src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java@109@0.0487804878
+src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java@107@0.0487804878
+src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java@94@0.0465116279
+src/main/java/org/apache/commons/math3/geometry/euclidean/oned/OrientedPoint.java@74@0.0384615385
+src/main/java/org/apache/commons/math3/geometry/euclidean/oned/Vector1D.java@128@0.0350877193

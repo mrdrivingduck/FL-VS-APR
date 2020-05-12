@@ -1,0 +1,15 @@
+src/main/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java@156@0.9956972918
+src/main/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java@155@0.995123861
+src/main/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java@154@0.995123861
+src/main/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java@153@0.995123861
+src/main/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java@150@0.9945580615
+src/main/java/org/apache/commons/math/util/FastMath.java@3350@0.9483766944
+src/main/java/org/apache/commons/math/util/FastMath.java@3349@0.9434067703
+src/main/java/org/apache/commons/math/util/FastMath.java@3348@0.9434067703
+src/main/java/org/apache/commons/math/util/FastMath.java@3344@0.9434067703
+src/main/java/org/apache/commons/math/util/FastMath.java@3334@0.8959687996
+src/main/java/org/apache/commons/math/util/FastMath.java@3330@0.8806289855
+src/main/java/org/apache/commons/math/util/FastMath.java@3326@0.8806289855
+src/main/java/org/apache/commons/math/util/FastMath.java@3325@0.8806289855
+src/main/java/org/apache/commons/math/util/FastMath.java@3321@0.8799640838
+src/main/java/org/apache/commons/math/util/FastMath.java@3317@0.8799640838

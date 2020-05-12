@@ -1,0 +1,14 @@
+src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java@112@0.33
+src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java@111@0.33
+src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java@115@0.32
+src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java@109@0.32
+src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java@108@0.32
+src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java@107@0.32
+src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java@106@0.32
+src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java@105@0.32
+src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java@104@0.32
+src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java@103@0.32
+src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java@101@0.32
+src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java@248@0.1
+src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java@247@0.1
+src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java@246@0.1

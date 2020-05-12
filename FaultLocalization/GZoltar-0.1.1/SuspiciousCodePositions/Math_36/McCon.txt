@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/util/MathUtils.java@247@0.0434782609
+src/main/java/org/apache/commons/math/util/MathUtils.java@244@0.0425531915

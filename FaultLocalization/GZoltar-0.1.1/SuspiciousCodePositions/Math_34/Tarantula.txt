@@ -1,0 +1,13 @@
+src/main/java/org/apache/commons/math3/genetics/ListPopulation.java@209@0.9997190222
+src/main/java/org/apache/commons/math3/genetics/ListPopulation.java@113@0.9997190222
+src/main/java/org/apache/commons/math3/genetics/ListPopulation.java@112@0.9997190222
+src/main/java/org/apache/commons/math3/genetics/ListPopulation.java@108@0.9994382022
+src/main/java/org/apache/commons/math3/genetics/BinaryChromosome.java@77@0.9971973094
+src/main/java/org/apache/commons/math3/genetics/BinaryChromosome.java@75@0.9971973094
+src/main/java/org/apache/commons/math3/genetics/BinaryChromosome.java@74@0.9971973094
+src/main/java/org/apache/commons/math3/genetics/BinaryChromosome.java@73@0.9971973094
+src/main/java/org/apache/commons/math3/genetics/BinaryChromosome.java@64@0.9966386555
+src/main/java/org/apache/commons/math3/genetics/BinaryChromosome.java@63@0.9963595631
+src/main/java/org/apache/commons/math3/genetics/BinaryChromosome.java@59@0.9963595631
+src/main/java/org/apache/commons/math3/genetics/BinaryChromosome.java@58@0.9963595631
+src/main/java/org/apache/commons/math3/genetics/GeneticAlgorithm.java@104@0.9958018472

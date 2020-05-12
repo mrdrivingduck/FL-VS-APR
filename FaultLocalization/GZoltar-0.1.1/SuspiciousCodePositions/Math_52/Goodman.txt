@@ -1,0 +1,2 @@
+src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java@481@0.3333333333
+src/main/java/org/apache/commons/math/geometry/euclidean/threed/Vector3D.java@224@0.3333333333

@@ -1,0 +1,17 @@
+src/java/org/apache/commons/math/complex/Complex.java@280@0.6960704146
+src/java/org/apache/commons/math/complex/Complex.java@277@0.6960704146
+src/java/org/apache/commons/math/complex/Complex.java@363@0.2318521191
+src/java/org/apache/commons/math/complex/Complex.java@358@0.2203589884
+src/java/org/apache/commons/math/complex/Complex.java@355@0.2072858363
+src/java/org/apache/commons/math/complex/Complex.java@258@0.2072858363
+src/java/org/apache/commons/math/complex/Complex.java@263@0.201885568
+src/java/org/apache/commons/math/complex/Complex.java@255@0.201885568
+src/java/org/apache/commons/math/complex/Complex.java@254@0.2002043056
+src/java/org/apache/commons/math/complex/Complex.java@250@0.1985739686
+src/java/org/apache/commons/math/complex/Complex.java@266@0.1939483015
+src/java/org/apache/commons/math/complex/Complex.java@248@0.1939483015
+src/java/org/apache/commons/math/util/MathUtils.java@460@0.183051381
+src/java/org/apache/commons/math/util/MathUtils.java@459@0.183051381
+src/java/org/apache/commons/math/complex/Complex.java@872@0.164799927
+src/java/org/apache/commons/math/complex/Complex.java@310@0.1189584097
+src/java/org/apache/commons/math/complex/Complex.java@299@0.1146182575

@@ -1,0 +1,12 @@
+src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java@138@1
+src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java@184@0.3333333333
+src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java@132@0.3333333333
+src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java@126@0.3333333333
+src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java@125@0.3333333333
+src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java@120@0.3333333333
+src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java@114@0.3333333333
+src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java@113@0.3333333333
+src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java@107@0.3333333333
+src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java@106@0.3333333333
+src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java@103@0.3333333333
+src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java@102@0.3333333333

@@ -1,0 +1,6 @@
+src/main/java/org/apache/commons/math/fraction/BigFraction.java@735@0.9994350282
+src/main/java/org/apache/commons/math/fraction/BigFraction.java@732@0.9994350282
+src/main/java/org/apache/commons/math/util/MathUtils.java@247@0.9877163596
+src/main/java/org/apache/commons/math/util/MathUtils.java@244@0.9874406922
+src/main/java/org/apache/commons/math/fraction/BigFraction.java@688@0.9855153203
+src/main/java/org/apache/commons/math/fraction/BigFraction.java@685@0.9855153203

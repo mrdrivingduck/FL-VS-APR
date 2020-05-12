@@ -1,0 +1,4 @@
+src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverUtils.java@199@1
+src/java/org/apache/commons/math/distribution/AbstractContinuousDistribution.java@104@1
+src/java/org/apache/commons/math/distribution/AbstractContinuousDistribution.java@100@1
+src/java/org/apache/commons/math/distribution/AbstractContinuousDistribution.java@97@1

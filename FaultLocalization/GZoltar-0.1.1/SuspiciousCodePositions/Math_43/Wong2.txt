@@ -1,0 +1,7 @@
+src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java@647@2
+src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java@637@2
+src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java@636@2
+src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java@635@2
+src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java@579@2
+src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java@578@2
+src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java@577@2

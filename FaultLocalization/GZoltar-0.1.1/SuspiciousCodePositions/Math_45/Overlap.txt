@@ -1,0 +1,15 @@
+src/main/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java@156@1
+src/main/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java@155@1
+src/main/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java@154@1
+src/main/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java@153@1
+src/main/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java@150@1
+src/main/java/org/apache/commons/math/util/FastMath.java@3350@1
+src/main/java/org/apache/commons/math/util/FastMath.java@3349@1
+src/main/java/org/apache/commons/math/util/FastMath.java@3348@1
+src/main/java/org/apache/commons/math/util/FastMath.java@3344@1
+src/main/java/org/apache/commons/math/util/FastMath.java@3334@1
+src/main/java/org/apache/commons/math/util/FastMath.java@3330@1
+src/main/java/org/apache/commons/math/util/FastMath.java@3326@1
+src/main/java/org/apache/commons/math/util/FastMath.java@3325@1
+src/main/java/org/apache/commons/math/util/FastMath.java@3321@1
+src/main/java/org/apache/commons/math/util/FastMath.java@3317@1

@@ -1,0 +1,10 @@
+src/java/org/apache/commons/math/util/MathUtils.java@350@1
+src/java/org/apache/commons/math/util/MathUtils.java@346@1
+src/java/org/apache/commons/math/util/MathUtils.java@345@1
+src/java/org/apache/commons/math/util/MathUtils.java@401@1
+src/java/org/apache/commons/math/util/MathUtils.java@399@1
+src/java/org/apache/commons/math/util/MathUtils.java@398@1
+src/java/org/apache/commons/math/util/MathUtils.java@397@1
+src/java/org/apache/commons/math/util/MathUtils.java@394@1
+src/java/org/apache/commons/math/util/MathUtils.java@377@1
+src/java/org/apache/commons/math/util/MathUtils.java@374@1

@@ -1,0 +1,8 @@
+src/main/java/org/apache/commons/math3/linear/OpenMapRealVector.java@374@0.3333333333
+src/main/java/org/apache/commons/math3/linear/OpenMapRealVector.java@365@0.3333333333
+src/main/java/org/apache/commons/math3/linear/OpenMapRealVector.java@364@0.3333333333
+src/main/java/org/apache/commons/math3/linear/OpenMapRealVector.java@363@0.3333333333
+src/main/java/org/apache/commons/math3/linear/OpenMapRealVector.java@362@0.3333333333
+src/main/java/org/apache/commons/math3/linear/OpenMapRealVector.java@361@0.3333333333
+src/main/java/org/apache/commons/math3/linear/OpenMapRealVector.java@360@0.1428571429
+src/main/java/org/apache/commons/math3/linear/OpenMapRealVector.java@34@0.1428571429

@@ -1,0 +1,11 @@
+src/main/java/org/apache/commons/math/MathRuntimeException.java@39@0.6665726773
+src/main/java/org/apache/commons/math/MathRuntimeException.java@136@0.4998942247
+src/main/java/org/apache/commons/math/exception/util/LocalizedFormats.java@341@0.0689380648
+src/main/java/org/apache/commons/math/exception/util/LocalizedFormats.java@328@0.0689380648
+src/main/java/org/apache/commons/math/distribution/NormalDistributionImpl.java@147@0.064490303
+src/main/java/org/apache/commons/math/distribution/NormalDistributionImpl.java@146@0.064490303
+src/main/java/org/apache/commons/math/distribution/NormalDistributionImpl.java@141@0.064490303
+src/main/java/org/apache/commons/math/distribution/NormalDistributionImpl.java@115@0.064490303
+src/main/java/org/apache/commons/math/distribution/NormalDistributionImpl.java@114@0.064490303
+src/main/java/org/apache/commons/math/MathRuntimeException.java@387@0.0109240146
+src/main/java/org/apache/commons/math/util/FastMath.java@219@0.0034582812

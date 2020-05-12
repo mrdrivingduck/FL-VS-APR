@@ -1,0 +1,4 @@
+src/java/org/apache/commons/math/util/MathUtils.java@714@1
+src/java/org/apache/commons/math/util/MathUtils.java@713@1
+src/java/org/apache/commons/math/util/MathUtils.java@711@1
+src/java/org/apache/commons/math/util/MathUtils.java@710@1

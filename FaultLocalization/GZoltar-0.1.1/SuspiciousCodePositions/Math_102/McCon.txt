@@ -1,0 +1,4 @@
+src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java@98@0.6666666667
+src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java@97@0.6666666667
+src/java/org/apache/commons/math/stat/inference/TestUtils.java@278@0.2222222222
+src/java/org/apache/commons/math/stat/inference/TestUtils.java@303@0.1111111111

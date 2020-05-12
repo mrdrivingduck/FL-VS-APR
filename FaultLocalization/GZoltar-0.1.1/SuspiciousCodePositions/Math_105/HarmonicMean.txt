@@ -1,0 +1,15 @@
+src/java/org/apache/commons/math/stat/regression/SimpleRegression.java@264@1.102112236
+src/java/org/apache/commons/math/stat/regression/SimpleRegression.java@121@1.102112236
+src/java/org/apache/commons/math/stat/regression/SimpleRegression.java@120@1.102112236
+src/java/org/apache/commons/math/stat/regression/SimpleRegression.java@119@1.102112236
+src/java/org/apache/commons/math/stat/regression/SimpleRegression.java@118@1.102112236
+src/java/org/apache/commons/math/stat/regression/SimpleRegression.java@116@1.102112236
+src/java/org/apache/commons/math/stat/regression/SimpleRegression.java@115@1.102112236
+src/java/org/apache/commons/math/stat/regression/SimpleRegression.java@114@1.102112236
+src/java/org/apache/commons/math/stat/regression/SimpleRegression.java@113@1.102112236
+src/java/org/apache/commons/math/stat/regression/SimpleRegression.java@112@1.102112236
+src/java/org/apache/commons/math/stat/regression/SimpleRegression.java@111@1.102112236
+src/java/org/apache/commons/math/stat/regression/SimpleRegression.java@110@1.102112236
+src/java/org/apache/commons/math/stat/regression/SimpleRegression.java@108@1.102112236
+src/java/org/apache/commons/math/stat/regression/SimpleRegression.java@107@1.102112236
+src/java/org/apache/commons/math/stat/regression/SimpleRegression.java@106@1.102112236
