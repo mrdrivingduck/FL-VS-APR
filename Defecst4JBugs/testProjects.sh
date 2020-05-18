@@ -2,32 +2,32 @@ dir=/home/mrdrivingduck/Desktop/d4jData/ # Store the buggy projects.
 
 failedTestCases=/home/mrdrivingduck/Desktop/FL-VS-APR/data/FailedTestCases/
 
-# proj=Chart
-# for bug in $(seq 1 26)
-# do
-# 	cd ${dir}${proj}_${bug}
-# 	defects4j test > ${failedTestCases}${proj}_${bug}.txt
-# 	echo ${proj}_${bug} done.
-# 	cd ..
-# done
+proj=Chart
+for bug in $(seq 1 26)
+do
+	cd ${dir}${proj}_${bug}
+	defects4j test > ${failedTestCases}${proj}_${bug}.txt
+	echo ${proj}_${bug} done.
+	cd ..
+done
 
-# proj=Cli
-# for bug in $(seq 1 5; seq 7 40)
-# do
-# 	cd ${dir}${proj}_${bug}
-# 	defects4j test > ${failedTestCases}${proj}_${bug}.txt
-# 	echo ${proj}_${bug} done.
-# 	cd ..
-# done
+proj=Cli
+for bug in $(seq 1 5; seq 7 40)
+do
+	cd ${dir}${proj}_${bug}
+	defects4j test > ${failedTestCases}${proj}_${bug}.txt
+	echo ${proj}_${bug} done.
+	cd ..
+done
 
-# proj=Closure
-# for bug in $(seq 1 62; seq 64 92; seq 94 176)
-# do
-# 	cd ${dir}${proj}_${bug}
-# 	defects4j test > ${failedTestCases}${proj}_${bug}.txt
-# 	echo ${proj}_${bug} done.
-# 	cd ..
-# done
+proj=Closure
+for bug in $(seq 1 62; seq 64 92; seq 94 176)
+do
+	cd ${dir}${proj}_${bug}
+	defects4j test > ${failedTestCases}${proj}_${bug}.txt
+	echo ${proj}_${bug} done.
+	cd ..
+done
 
 proj=Codec
 for bug in $(seq 1 18)

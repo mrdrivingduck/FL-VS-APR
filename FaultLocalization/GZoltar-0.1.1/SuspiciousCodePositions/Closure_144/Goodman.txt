@@ -1,0 +1,16 @@
+src/com/google/javascript/jscomp/Compiler.java@1511@0.835331373
+src/com/google/javascript/jscomp/Compiler.java@1510@0.835331373
+src/com/google/javascript/jscomp/RhinoErrorReporter.java@102@0.835331373
+src/com/google/javascript/jscomp/RhinoErrorReporter.java@98@0.835331373
+src/com/google/javascript/jscomp/RhinoErrorReporter.java@67@0.835331373
+src/com/google/javascript/jscomp/RhinoErrorReporter.java@66@0.835331373
+src/com/google/javascript/rhino/ScriptRuntime.java@423@0.8139950816
+src/com/google/javascript/rhino/ScriptRuntime.java@483@0.8127792672
+src/com/google/javascript/rhino/ScriptRuntime.java@482@0.8127792672
+src/com/google/javascript/rhino/ScriptRuntime.java@474@0.8127792672
+src/com/google/javascript/rhino/ScriptRuntime.java@470@0.8127792672
+src/com/google/javascript/rhino/ScriptRuntime.java@466@0.8127792672
+src/com/google/javascript/rhino/ScriptRuntime.java@463@0.8127792672
+src/com/google/javascript/rhino/ScriptRuntime.java@462@0.8127792672
+src/com/google/javascript/rhino/ScriptRuntime.java@459@0.8127792672
+src/com/google/javascript/rhino/Context.java@402@0.8127792672

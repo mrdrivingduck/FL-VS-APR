@@ -1,0 +1,12 @@
+src/com/google/javascript/jscomp/PeepholeFoldConstants.java@1309@0.3333333333
+src/com/google/javascript/jscomp/PeepholeFoldConstants.java@1308@0.3333333333
+src/com/google/javascript/jscomp/PeepholeFoldConstants.java@1307@0.3333333333
+src/com/google/javascript/jscomp/PeepholeFoldConstants.java@1303@0.3333333333
+src/com/google/javascript/jscomp/PeepholeFoldConstants.java@1302@0.3333333333
+src/com/google/javascript/jscomp/PeepholeFoldConstants.java@1297@0.3333333333
+src/com/google/javascript/jscomp/PeepholeFoldConstants.java@1292@0.3333333333
+src/com/google/javascript/jscomp/PeepholeFoldConstants.java@1291@0.3333333333
+src/com/google/javascript/jscomp/PeepholeFoldConstants.java@1290@0.3333333333
+src/com/google/javascript/jscomp/PeepholeFoldConstants.java@1284@0.3333333333
+src/com/google/javascript/jscomp/PeepholeFoldConstants.java@1279@0.3333333333
+src/com/google/javascript/jscomp/PeepholeFoldConstants.java@1220@0.3333333333
