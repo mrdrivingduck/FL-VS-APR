@@ -55,7 +55,7 @@ public class GZoltar_1_7_3 {
                         continue;
                     }
 
-                    String fileName = line.substring(0, line.indexOf('$'));
+                    String fileName = line.substring(0, line.indexOf('#')).replace('$', '.');
                     String lineNum = line.substring(line.lastIndexOf(':') + 1, line.lastIndexOf(';'));
                     String scoreStr = line.substring(line.lastIndexOf(';') + 1);
 
