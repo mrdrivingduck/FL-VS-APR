@@ -15,14 +15,36 @@ _get_test_classpath() {
 
   cp=""
 
-  if [ "$projectName" == "Math" ]; then
+  if [ "$projectName" == "Chart" ]; then
+    cp="/build-tests"
+  elif [ "$projectName" == "Cli" ]; then
     cp="/target/test-classes"
-  elif [ "$projectName" == "Time" ]; then
-    if [ $bugId < 12 ]; then
-      cp="/target/test-classes"
+  elif [ "$projectName" == "Closure" ]; then
+    cp="/build/test"
+  elif [ "$projectName" == "Codec" ]; then
+    if [ $bugId <= 16 ]; then
+      cp="/target/tests"
     else
-      cp="/build/test"
+      cp="/target/test-classes"
     fi
+  elif [ "$projectName" == "Collections" ]; then
+    cp="/target/tests"
+  elif [ "$projectName" == "Compress" ]; then
+    cp="/target/test-classes"
+  elif [ "$projectName" == "Csv" ]; then
+    cp="/target/test-classes"
+  elif [ "$projectName" == "Gson" ]; then
+    cp="/target/test-classes"
+  elif [ "$projectName" == "JacksonCore" ]; then
+    cp="/target/test-classes"
+  elif [ "$projectName" == "JacksonDatabind" ]; then
+    cp="/target/test-classes"
+  elif [ "$projectName" == "JacksonXml" ]; then
+    cp="/target/test-classes"
+  elif [ "$projectName" == "Jsoup" ]; then
+    cp="/target/test-classes"
+  elif [ "$projectName" == "JxPath" ]; then
+    cp="/target/test-classes"
   elif [ "$projectName" == "Lang" ]; then
     if [ $bugId <= 20 ]; then
       cp="/target/tests"
@@ -31,11 +53,9 @@ _get_test_classpath() {
     else
       cp="/target/tests"
     fi
-  elif [ "$projectName" == "Chart" ]; then
-    cp="/build-tests"
-  elif [ "$projectName" == "Closure" ]; then
-    cp="/build/test"
-  else # Mockito
+  elif [ "$projectName" == "Math" ]; then
+    cp="/target/test-classes"
+  elif [ "$projectName" == "Mockito" ]; then
     if [ $bugId <= 11 ]; then
       cp="/build/classes/test"
     elif [ $bugId <= 17 ]; then
@@ -44,6 +64,12 @@ _get_test_classpath() {
       cp="/build/classes/test"
     else
       cp="/target/test-classes"
+    fi
+  elif [ "$projectName" == "Time" ]; then
+    if [ $bugId <= 11 ]; then
+      cp="/target/test-classes"
+    else
+      cp="/build/tests"
     fi
   fi
 
@@ -66,21 +92,37 @@ _get_src_classpath() {
 
   cp=""
 
-  if [ "$projectName" == "Math" ]; then
-    cp="/target/classes"
-  elif [ "$projectName" == "Time" ]; then
-    if [ $bugId < 12 ]; then
-      cp="/target/classes"
-    else
-      cp="/build/classes"
-    fi
-  elif [ "$projectName" == "Lang" ]; then
-    cp="/target/classes"
-  elif [ "$projectName" == "Chart" ]; then
+  if [ "$projectName" == "Chart" ]; then
     cp="/build"
+  elif [ "$projectName" == "Cli" ]; then
+    cp="/target/classes"
   elif [ "$projectName" == "Closure" ]; then
     cp="/build/classes"
-  else # Mockito
+  elif [ "$projectName" == "Codec" ]; then
+    cp="/target/classes"
+  elif [ "$projectName" == "Collections" ]; then
+    cp="/target/classes"
+  elif [ "$projectName" == "Compress" ]; then
+    cp="/target/classes"
+  elif [ "$projectName" == "Csv" ]; then
+    cp="/target/classes"
+  elif [ "$projectName" == "Gson" ]; then
+    cp="/target/classes"
+  elif [ "$projectName" == "JacksonCore" ]; then
+    cp="/target/classes"
+  elif [ "$projectName" == "JacksonDatabind" ]; then
+    cp="/target/classes"
+  elif [ "$projectName" == "JacksonXml" ]; then
+    cp="/target/classes"
+  elif [ "$projectName" == "Jsoup" ]; then
+    cp="/target/classes"
+  elif [ "$projectName" == "JxPath" ]; then
+    cp="/target/classes"
+  elif [ "$projectName" == "Lang" ]; then
+    cp="/target/classes"
+  elif [ "$projectName" == "Math" ]; then
+    cp="/target/classes"
+  elif [ "$projectName" == "Mockito" ]; then
     if [ $bugId <= 11 ]; then
       cp="/build/classes/main"
     elif [ $bugId <= 17 ]; then
@@ -90,8 +132,14 @@ _get_src_classpath() {
     else
       cp="/target/classes"
     fi
+  elif [ "$projectName" == "Time" ]; then
+    if [ $bugId <= 11 ]; then
+      cp="/target/classes"
+    else
+      cp="/build/classes"
+    fi
   fi
-
+  
   echo "$cp"
   return 0
 }

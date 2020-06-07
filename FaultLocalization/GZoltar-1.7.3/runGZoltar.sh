@@ -1,17 +1,19 @@
+#!/bin/bash
+
 SCRIPT_DIR=`pwd`
-source "$SCRIPT_DIR/pathUtil.sh" || exit 1
+source "${SCRIPT_DIR}/pathUtil.sh" || exit 1
 
 # GZoltar Version
 GZoltarVersion=1.7.3-SNAPSHOT
 
 # Absolute path of junit.jar
-JUNIT_JAR=/...TODO.../gzoltar/com.gzoltar.core/target/dependency/junit-4.12.jar
+JUNIT_JAR=/home/mrdrivingduck/Desktop/gzoltar/lib/junit-4.12.jar
 # Absolute path of hmacrest-core.jar
-HAMCREST_JAR=/...TODO.../gzoltar/com.gzoltar.core/target/dependency/hamcrest-core-1.3.jar
+HAMCREST_JAR=/home/mrdrivingduck/Desktop/gzoltar/lib/hamcrest-core-1.3.jar
 # Absolute path of com.gzoltar.cli-${GZoltarVersion}-jar-with-dependencies.jar
-GZOLTAR_CLI_JAR=/...TODO.../gzoltar/com.gzoltar.cli/target/com.gzoltar.cli-${GZoltarVersion}-jar-with-dependencies.jar
+GZOLTAR_CLI_JAR=/home/mrdrivingduck/Desktop/gzoltar/lib/gzoltarcli.jar
 # Absolute path of com.gzoltar.agent.rt-${GZoltarVersion}-all.jar
-GZOLTAR_AGENT_JAR=/...TODO.../gzoltar/com.gzoltar.agent.rt/target/com.gzoltar.agent.rt-${GZoltarVersion}-all.jar
+GZOLTAR_AGENT_JAR=/home/mrdrivingduck/Desktop/gzoltar/lib/gzoltaragent.jar
 
 
 
@@ -21,17 +23,17 @@ bid="$2"       # bug id
 
 
 # Output path of fault localization results.
-output_dir="/...TODO.../gzoltar_results/${pid}-${bid}"
+output_dir="/home/mrdrivingduck/Desktop/FL-VS-APR/gzoltar_results/${pid}_${bid}"
 
-bug_dir="/...TODO.../Defects4J_Bugs/${pid}-${bid}" # bug directory
+bug_dir="/home/mrdrivingduck/Desktop/d4jData/${pid}_${bid}" # bug directory
 
-mkdir -p output_dir
+mkdir -p ${output_dir}
 test_classpath="$bug_dir$(_get_test_classpath $pid $bid)"
 src_classes_dir="$bug_dir$(_get_src_classpath $pid $bid)"
 
 tool="developer"                      # <developer|evosuite|randoop>
-unit_tests_file="$output_dir/tests.txt" # all test methods.
-ser_file="$output_dir/gzoltar.ser"
+unit_tests_file="${output_dir}/tests.txt" # all test methods.
+ser_file="${output_dir}/gzoltar.ser"
 
 
 java -cp $src_classes_dir:$test_classpath:$JUNIT_JAR:$HAMCREST_JAR:$GZOLTAR_CLI_JAR \
@@ -40,13 +42,13 @@ java -cp $src_classes_dir:$test_classpath:$JUNIT_JAR:$HAMCREST_JAR:$GZOLTAR_CLI_
     
 echo "[INFO] Start: $(date)" >&2
     (cd "$tmp_dir" > /dev/null 2>&1 && \
-      java -XX:MaxPermSize=4096M -javaagent:$GZOLTAR_AGENT_JAR=destfile=$ser_file,buildlocation=$src_classes_dir,inclnolocationclasses=false,output="FILE" \
+      java -javaagent:$GZOLTAR_AGENT_JAR=destfile=$ser_file,buildlocation=$src_classes_dir,inclnolocationclasses=false,output="FILE" \
         -cp $src_classes_dir:$JUNIT_JAR:$test_classpath:$GZOLTAR_CLI_JAR \
         com.gzoltar.cli.Main runTestMethods \
           --testMethods "$unit_tests_file" \
           --collectCoverage)
 if [ $? -ne 0 ]; then
-  echo "[ERROR] GZoltar runTestMethods command has failed for $pid-${bid}b version!" >&2
+  echo "[ERROR] GZoltar runTestMethods command has failed for ${pid}_${bid}b version!" >&2
   # rm -rf "$tmp_dir"
 fi
 [ -s "$ser_file" ] || die "[ERROR] $ser_file does not exist or it is empty!"
@@ -55,7 +57,7 @@ spectra_file="$output_dir/sfl/txt/spectra.csv"
 matrix_file="$output_dir/sfl/txt/matrix.txt"
 tests_file="$output_dir/sfl/txt/tests.csv"
 
-java -XX:MaxPermSize=4096M -cp $src_classes_dir:$JUNIT_JAR:$test_classpath:$GZOLTAR_CLI_JAR \
+java -cp $src_classes_dir:$JUNIT_JAR:$test_classpath:$GZOLTAR_CLI_JAR \
       com.gzoltar.cli.Main faultLocalizationReport \
         --buildLocation "$src_classes_dir" \
         --granularity "line" \
@@ -69,7 +71,7 @@ java -XX:MaxPermSize=4096M -cp $src_classes_dir:$JUNIT_JAR:$test_classpath:$GZOL
         --metric "entropy" \
         --formatter "txt"
 if [ $? -ne 0 ]; then
-  echo "[ERROR] GZoltar faultLocalizationReport command has failed for $pid-${bid}b version!" >&2
+  echo "[ERROR] GZoltar faultLocalizationReport command has failed for ${pid}_${bid}b version!" >&2
   # rm -rf "$tmp_dir"
 fi
 echo "[INFO] End: $(date)" >&2
