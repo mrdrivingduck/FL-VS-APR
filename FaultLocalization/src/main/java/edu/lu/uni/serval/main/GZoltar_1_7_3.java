@@ -51,11 +51,13 @@ public class GZoltar_1_7_3 {
                 String line;
                 while ((line = br.readLine()) != null) {
                     // org.jfree.data.xy$XYIntervalSeriesCollection#getSeries(int):116;1.0
+                    // org.apache.commons.lang3.concurrent$BasicThreadFactory$Builder#BasicThreadFactory$Builder():254;0.6888467201936644
                     if (line.toLowerCase().contains("test") || line.contains("name;suspiciousness_value")) {
                         continue;
                     }
 
-                    String fileName = line.substring(0, line.indexOf('#')).replace('$', '.');
+                    String[] tokens = line.split("[$#]");
+                    String fileName = tokens[0] + "." + tokens[1];
                     String lineNum = line.substring(line.lastIndexOf(':') + 1, line.lastIndexOf(';'));
                     String scoreStr = line.substring(line.lastIndexOf(';') + 1);
 
