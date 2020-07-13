@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 
 #
 # Returns the test classpath of a previously checkout D4J's project-bug.
@@ -22,7 +22,7 @@ _get_test_classpath() {
   elif [ "$projectName" == "Closure" ]; then
     cp="/build/test"
   elif [ "$projectName" == "Codec" ]; then
-    if [ $bugId <= 16 ]; then
+    if [ "$bugId" -le 16 ]; then # <=
       cp="/target/tests"
     else
       cp="/target/test-classes"
@@ -46,9 +46,9 @@ _get_test_classpath() {
   elif [ "$projectName" == "JxPath" ]; then
     cp="/target/test-classes"
   elif [ "$projectName" == "Lang" ]; then
-    if [ $bugId <= 20 ]; then
+    if [ "$bugId" -le 20 ]; then
       cp="/target/tests"
-    elif [ $bugId <= 41 ]; then
+    elif [ "$bugId" -le 41 ]; then
       cp="/target/test-classes"
     else
       cp="/target/tests"
@@ -56,24 +56,24 @@ _get_test_classpath() {
   elif [ "$projectName" == "Math" ]; then
     cp="/target/test-classes"
   elif [ "$projectName" == "Mockito" ]; then
-    if [ $bugId <= 11 ]; then
+    if [ "$bugId" -le 11 ]; then
       cp="/build/classes/test"
-    elif [ $bugId <= 17 ]; then
+    elif [ "$bugId" -le 17 ]; then
       cp="/target/test-classes"
-    elif [ $bugId <= 21 ]; then
+    elif [ "$bugId" -le 21 ]; then
       cp="/build/classes/test"
     else
       cp="/target/test-classes"
     fi
   elif [ "$projectName" == "Time" ]; then
-    if [ $bugId <= 11 ]; then
+    if [ "$bugId" -le 11 ]; then
       cp="/target/test-classes"
     else
       cp="/build/tests"
     fi
   fi
 
-  echo "$cp"
+  echo "${cp}"
   return 0
 }
 
@@ -123,17 +123,17 @@ _get_src_classpath() {
   elif [ "$projectName" == "Math" ]; then
     cp="/target/classes"
   elif [ "$projectName" == "Mockito" ]; then
-    if [ $bugId <= 11 ]; then
+    if [ "$bugId" -le 11 ]; then
       cp="/build/classes/main"
-    elif [ $bugId <= 17 ]; then
+    elif [ "$bugId" -le 17 ]; then
       cp="/target/classes"
-    elif [ $bugId <= 21 ]; then
+    elif [ "$bugId" -le 21 ]; then
       cp="/build/classes/main"
     else
       cp="/target/classes"
     fi
   elif [ "$projectName" == "Time" ]; then
-    if [ $bugId <= 11 ]; then
+    if [ "$bugId" -le 11 ]; then
       cp="/target/classes"
     else
       cp="/build/classes"
