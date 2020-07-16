@@ -41,10 +41,10 @@ src/com/google/javascript/rhino/Node.java@1052@0.2041241452
 src/com/google/javascript/rhino/Node.java@1051@0.2041241452
 src/com/google/javascript/rhino/Node.java@1050@0.2041241452
 src/com/google/javascript/rhino/Node.java@1045@0.2041241452
-src/com/google/javascript/jscomp/CollapseProperties.java@751@0.2020305089
-src/com/google/javascript/jscomp/CollapseProperties.java@749@0.2020305089
 src/com/google/javascript/jscomp/CollapseProperties.java@748@0.2020305089
-src/com/google/javascript/jscomp/CollapseProperties.java@747@0.2020305089
+src/com/google/javascript/jscomp/CollapseProperties.java@746@0.2020305089
+src/com/google/javascript/jscomp/CollapseProperties.java@745@0.2020305089
+src/com/google/javascript/jscomp/CollapseProperties.java@744@0.2020305089
 src/com/google/javascript/jscomp/CollapseProperties.java@595@0.2020305089
 src/com/google/javascript/rhino/Token.java@407@0.1980295086
 src/com/google/javascript/rhino/Node.java@932@0.1889822365
@@ -130,12 +130,12 @@ src/com/google/javascript/jscomp/CollapseProperties.java@323@0.1091089451
 src/com/google/javascript/jscomp/CollapseProperties.java@308@0.1091089451
 src/com/google/javascript/jscomp/NodeUtil.java@2222@0.1084652289
 src/com/google/javascript/jscomp/NodeUtil.java@2219@0.1084652289
-src/com/google/javascript/jscomp/CollapseProperties.java@891@0.102328902
-src/com/google/javascript/jscomp/CollapseProperties.java@870@0.102328902
-src/com/google/javascript/jscomp/CollapseProperties.java@869@0.102328902
-src/com/google/javascript/jscomp/CollapseProperties.java@868@0.102328902
+src/com/google/javascript/jscomp/CollapseProperties.java@888@0.102328902
 src/com/google/javascript/jscomp/CollapseProperties.java@867@0.102328902
 src/com/google/javascript/jscomp/CollapseProperties.java@866@0.102328902
+src/com/google/javascript/jscomp/CollapseProperties.java@865@0.102328902
+src/com/google/javascript/jscomp/CollapseProperties.java@864@0.102328902
+src/com/google/javascript/jscomp/CollapseProperties.java@863@0.102328902
 src/com/google/javascript/jscomp/CollapseProperties.java@598@0.102328902
 src/com/google/javascript/jscomp/CollapseProperties.java@587@0.102328902
 src/com/google/javascript/jscomp/CollapseProperties.java@581@0.102328902
@@ -146,8 +146,8 @@ src/com/google/javascript/jscomp/CollapseProperties.java@374@0.0962250449
 src/com/google/javascript/jscomp/CollapseProperties.java@376@0.0944911183
 src/com/google/javascript/jscomp/CollapseProperties.java@373@0.0944911183
 src/com/google/javascript/jscomp/CollapseProperties.java@369@0.0944911183
-src/com/google/javascript/jscomp/CollapseProperties.java@901@0.093048421
-src/com/google/javascript/jscomp/CollapseProperties.java@895@0.093048421
+src/com/google/javascript/jscomp/CollapseProperties.java@898@0.093048421
+src/com/google/javascript/jscomp/CollapseProperties.java@892@0.093048421
 src/com/google/javascript/jscomp/CollapseProperties.java@472@0.093048421
 src/com/google/javascript/jscomp/CollapseProperties.java@465@0.093048421
 src/com/google/javascript/jscomp/CollapseProperties.java@462@0.093048421
@@ -2282,4 +2282,4 @@ src/com/google/javascript/jscomp/parsing/IRFactory.java@1337@0.0138621743
 src/com/google/javascript/jscomp/parsing/TypeSafeDispatcher.java@247@0.0138621743
 src/com/google/javascript/jscomp/parsing/IRFactory.java@79@0.0138621743
 src/com/google/javascript/rhino/Node.java@512@0.0137594414
-src/com/google/javascript/rhino/Node.java@544@0.0114843947
+src/com/google/javascript/rhino/Node.java@544@0.0114859097
