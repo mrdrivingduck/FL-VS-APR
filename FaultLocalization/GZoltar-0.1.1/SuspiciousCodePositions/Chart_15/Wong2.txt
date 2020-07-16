@@ -1,2 +1,0 @@
-org.jfree.chart.plot.PiePlot@2613@1
-org.jfree.data.general.DatasetUtilities@153@1

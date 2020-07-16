@@ -1,8 +1,0 @@
-src/java/org/apache/commons/cli/OptionBuilder.java@298@2
-src/java/org/apache/commons/cli/HelpFormatter.java@1023@1
-src/java/org/apache/commons/cli/HelpFormatter.java@1021@1
-src/java/org/apache/commons/cli/HelpFormatter.java@906@1
-src/java/org/apache/commons/cli/Parser.java@300@1
-src/java/org/apache/commons/cli/Parser.java@296@1
-src/java/org/apache/commons/cli/Parser.java@295@1
-src/java/org/apache/commons/cli/Parser.java@294@1

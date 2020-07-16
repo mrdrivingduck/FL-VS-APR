@@ -1,3 +1,0 @@
-src/main/java/org/apache/commons/cli/TypeHandler.java@90@0.1818181818
-src/main/java/org/apache/commons/cli/PatternOptionBuilder.java@111@0.0909090909
-src/main/java/org/apache/commons/cli/TypeHandler.java@102@0.0454545455

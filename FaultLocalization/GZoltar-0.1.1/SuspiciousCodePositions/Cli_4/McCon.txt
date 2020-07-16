@@ -1,5 +1,0 @@
-src/java/org/apache/commons/cli/OptionBuilder.java@298@0.2
-src/java/org/apache/commons/cli/HelpFormatter.java@1023@0.1
-src/java/org/apache/commons/cli/HelpFormatter.java@1021@0.1
-src/java/org/apache/commons/cli/Option.java@524@0.1
-src/java/org/apache/commons/cli/MissingOptionException.java@90@0.1

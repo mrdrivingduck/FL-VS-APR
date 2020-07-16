@@ -1,7 +1,0 @@
-src/java/org/apache/commons/cli/OptionBuilder.java@298@0.2222222222
-src/java/org/apache/commons/cli/OptionBuilder.java@227@0.1277777778
-src/java/org/apache/commons/cli/OptionBuilder.java@225@0.1277777778
-src/java/org/apache/commons/cli/HelpFormatter.java@1023@0.1111111111
-src/java/org/apache/commons/cli/HelpFormatter.java@1021@0.1111111111
-src/java/org/apache/commons/cli/OptionBuilder.java@113@0.0317460317
-src/java/org/apache/commons/cli/OptionBuilder.java@111@0.0317460317

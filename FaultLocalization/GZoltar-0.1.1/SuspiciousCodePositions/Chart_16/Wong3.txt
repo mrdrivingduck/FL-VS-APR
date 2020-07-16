@@ -1,8 +1,0 @@
-org.jfree.data.DataUtilities@133@5.16
-org.jfree.data.DataUtilities@130@5.16
-org.jfree.data.DataUtilities@129@5.16
-org.jfree.data.DataUtilities@128@5.16
-org.jfree.data.DataUtilities@125@5.16
-org.jfree.data.category.DefaultIntervalCategoryDataset@641@1
-org.jfree.data.category.DefaultIntervalCategoryDataset@338@1
-org.jfree.data.category.DefaultIntervalCategoryDataset@335@1

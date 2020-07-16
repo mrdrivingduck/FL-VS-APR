@@ -1,9 +1,0 @@
-org.jfree.data.Range@365@1
-org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@175@1
-org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@174@1
-org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@173@1
-org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@742@0.3333333333
-org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@741@0.3333333333
-org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@740@0.3333333333
-org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@183@0.3333333333
-org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@155@0.3333333333

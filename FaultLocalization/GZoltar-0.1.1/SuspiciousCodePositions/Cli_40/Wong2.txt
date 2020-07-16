@@ -1,4 +1,0 @@
-src/main/java/org/apache/commons/cli/TypeHandler.java@90@4
-src/main/java/org/apache/commons/cli/TypeHandler.java@222@2
-src/main/java/org/apache/commons/cli/PatternOptionBuilder.java@111@2
-src/main/java/org/apache/commons/cli/TypeHandler.java@102@1

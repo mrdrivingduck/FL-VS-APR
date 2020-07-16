@@ -1,9 +1,0 @@
-src/main/java/org/apache/commons/cli/OptionBuilder.java@298@0.25
-src/main/java/org/apache/commons/cli/OptionBuilder.java@227@0.225
-src/main/java/org/apache/commons/cli/OptionBuilder.java@225@0.225
-src/main/java/org/apache/commons/cli/OptionBuilder.java@113@0.1403508772
-src/main/java/org/apache/commons/cli/OptionBuilder.java@111@0.1403508772
-src/main/java/org/apache/commons/cli/OptionBuilder.java@240@0.0416666667
-src/main/java/org/apache/commons/cli/OptionBuilder.java@238@0.0416666667
-src/main/java/org/apache/commons/cli/OptionBuilder.java@178@0.0416666667
-src/main/java/org/apache/commons/cli/OptionBuilder.java@176@0.0416666667
