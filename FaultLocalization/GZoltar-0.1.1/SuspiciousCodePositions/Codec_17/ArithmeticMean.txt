@@ -1,4 +1,0 @@
-src/main/java/org/apache/commons/codec/digest/MessageDigestAlgorithms.java@139@0.6663826161
-src/main/java/org/apache/commons/codec/binary/StringUtils.java@339@0.4987212276
-src/main/java/org/apache/commons/codec/binary/StringUtils.java@419@0.0714737816
-src/main/java/org/apache/commons/codec/binary/StringUtils.java@293@0.0311606167

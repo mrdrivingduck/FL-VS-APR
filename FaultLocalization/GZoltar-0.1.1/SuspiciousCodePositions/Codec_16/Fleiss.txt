@@ -1,2 +1,0 @@
-src/main/java/org/apache/commons/codec/binary/StringUtils.java@97@15.5954810496
-src/main/java/org/apache/commons/codec/binary/StringUtils.java@94@15.5954810496
