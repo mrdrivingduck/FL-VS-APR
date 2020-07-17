@@ -1,5 +1,5 @@
-src/com/google/javascript/jscomp/ProcessCommonJSModules.java@121@1
-src/com/google/javascript/jscomp/ProcessCommonJSModules.java@124@0.316227766
-src/com/google/javascript/jscomp/ProcessCommonJSModules.java@120@0.316227766
-src/com/google/javascript/jscomp/ProcessCommonJSModules.java@89@0.316227766
-src/com/google/javascript/jscomp/ProcessCommonJSModules.java@72@0.316227766
+com.google.javascript.jscomp.ProcessCommonJSModules@121@1
+com.google.javascript.jscomp.ProcessCommonJSModules@124@0.316227766
+com.google.javascript.jscomp.ProcessCommonJSModules@120@0.316227766
+com.google.javascript.jscomp.ProcessCommonJSModules@89@0.316227766
+com.google.javascript.jscomp.ProcessCommonJSModules@72@0.316227766
