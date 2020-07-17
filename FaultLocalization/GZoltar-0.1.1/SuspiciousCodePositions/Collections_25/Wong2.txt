@@ -1,2 +1,0 @@
-src/main/java/org/apache/commons/collections4/IteratorUtils.java@605@1
-src/main/java/org/apache/commons/collections4/iterators/CollatingIterator.java@174@1
