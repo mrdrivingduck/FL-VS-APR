@@ -1,3 +1,0 @@
-src/org/mockito/internal/verification/VerificationModeFactory.java@25@0.9070512821
-src/org/mockito/Mockito.java@2203@0.6666666667
-src/org/mockito/Mockito.java@2163@0.6588620311

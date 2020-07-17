@@ -1,9 +1,0 @@
-org.mockito.Mockito@1674@1
-org.mockito.exceptions.Reporter@424@1
-org.mockito.exceptions.Reporter@421@1
-org.mockito.exceptions.Reporter@419@1
-org.mockito.exceptions.Reporter@418@1
-org.mockito.internal.invocation.InvocationsFinder@100@1
-org.mockito.internal.verification.NoMoreInteractions@24@1
-org.mockito.internal.exceptions.util.ScenarioPrinter@15@1
-org.mockito.internal.exceptions.util.ScenarioPrinter@14@1
