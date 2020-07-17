@@ -1,4 +1,0 @@
-src/main/java/org/apache/commons/compress/archivers/zip/ZipEncodingHelper.java@248@164.9026666667
-src/main/java/org/apache/commons/compress/archivers/zip/ZipEncodingHelper.java@244@164.9026666667
-src/main/java/org/apache/commons/compress/archivers/zip/ZipEncodingHelper.java@215@164.9026666667
-src/main/java/org/apache/commons/compress/archivers/zip/ZipEncodingHelper.java@216@82.6346666667
