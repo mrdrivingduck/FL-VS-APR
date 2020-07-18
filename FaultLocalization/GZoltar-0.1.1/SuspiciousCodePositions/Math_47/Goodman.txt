@@ -1,2 +1,0 @@
-src/main/java/org/apache/commons/math/complex/Complex.java@1179@1
-src/main/java/org/apache/commons/math/complex/Complex.java@257@0.3333333333

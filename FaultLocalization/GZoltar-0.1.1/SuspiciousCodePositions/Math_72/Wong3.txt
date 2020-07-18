@@ -1,4 +1,0 @@
-src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java@185@1
-src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java@184@1
-src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java@116@1
-src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java@115@1

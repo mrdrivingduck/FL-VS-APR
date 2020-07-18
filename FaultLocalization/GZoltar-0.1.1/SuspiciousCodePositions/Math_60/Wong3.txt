@@ -1,3 +1,0 @@
-src/main/java/org/apache/commons/math/util/ContinuedFraction.java@186@1
-src/main/java/org/apache/commons/math/util/ContinuedFraction.java@164@1
-src/main/java/org/apache/commons/math/util/ContinuedFraction.java@163@1

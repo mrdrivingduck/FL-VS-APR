@@ -1,4 +1,0 @@
-src/main/java/org/apache/commons/math/geometry/Vector3D.java@473@0.0004159734
-src/main/java/org/apache/commons/math/geometry/Vector3D.java@197@0.0004098361
-src/main/java/org/apache/commons/math/geometry/Vector3D.java@189@0.0004098361
-src/main/java/org/apache/commons/math/geometry/Vector3D.java@181@0.0004098361

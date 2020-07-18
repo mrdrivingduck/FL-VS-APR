@@ -1,4 +1,0 @@
-src/main/java/org/apache/commons/math3/optimization/linear/AbstractLinearOptimizer.java@128@1
-src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java@137@0.3333333333
-src/main/java/org/apache/commons/math3/exception/MathIllegalStateException.java@86@0.3333333333
-src/main/java/org/apache/commons/math3/exception/MathIllegalStateException.java@80@0.3333333333

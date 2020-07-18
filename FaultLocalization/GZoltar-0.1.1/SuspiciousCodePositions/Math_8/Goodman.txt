@@ -1,4 +1,0 @@
-src/main/java/org/apache/commons/math3/distribution/DiscreteDistribution.java@190@0.3333333333
-src/main/java/org/apache/commons/math3/distribution/DiscreteDistribution.java@189@0.3333333333
-src/main/java/org/apache/commons/math3/distribution/DiscreteDistribution.java@187@0.3333333333
-src/main/java/org/apache/commons/math3/distribution/DiscreteDistribution.java@182@0.3333333333

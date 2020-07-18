@@ -1,2 +1,0 @@
-src/java/org/apache/commons/math/optimization/linear/SimplexTableau.java@291@0.3333333333
-src/java/org/apache/commons/math/optimization/linear/SimplexSolver.java@168@0.3333333333

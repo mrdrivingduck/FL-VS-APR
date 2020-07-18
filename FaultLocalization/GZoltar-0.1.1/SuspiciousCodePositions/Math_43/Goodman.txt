@@ -1,2 +1,0 @@
-src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java@647@0.5
-src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java@643@0.3333333333

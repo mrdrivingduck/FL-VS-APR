@@ -1,5 +1,0 @@
-src/main/java/org/apache/commons/math3/geometry/euclidean/twod/PolygonsSet.java@330@1
-src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/AVLTree.java@167@1
-src/main/java/org/apache/commons/math3/geometry/euclidean/twod/PolygonsSet.java@136@1
-src/main/java/org/apache/commons/math3/geometry/euclidean/twod/PolygonsSet.java@135@1
-src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java@34@1

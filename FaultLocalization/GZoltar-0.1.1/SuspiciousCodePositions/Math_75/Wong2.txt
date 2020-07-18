@@ -1,2 +1,0 @@
-src/main/java/org/apache/commons/math/stat/Frequency.java@342@1
-src/main/java/org/apache/commons/math/stat/Frequency.java@303@1

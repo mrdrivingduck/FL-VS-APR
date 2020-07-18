@@ -1,3 +1,0 @@
-src/java/org/apache/commons/math/fraction/Fraction.java@261@0.3333333333
-src/java/org/apache/commons/math/fraction/Fraction.java@260@0.3333333333
-src/java/org/apache/commons/math/fraction/Fraction.java@259@0.3333333333

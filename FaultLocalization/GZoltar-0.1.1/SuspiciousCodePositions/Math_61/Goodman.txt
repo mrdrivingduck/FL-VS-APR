@@ -1,1 +1,0 @@
-src/main/java/org/apache/commons/math/MathRuntimeException.java@39@0.3333333333

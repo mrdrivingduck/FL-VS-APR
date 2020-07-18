@@ -1,2 +1,0 @@
-src/main/java/org/apache/commons/math/util/FastMath.java@3482@1
-src/main/java/org/apache/commons/math/util/FastMath.java@3446@1

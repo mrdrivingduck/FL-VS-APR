@@ -1,9 +1,0 @@
-src/main/java/org/apache/commons/math3/complex/Complex.java@1228@1
-src/main/java/org/apache/commons/math3/complex/Complex.java@305@1
-src/main/java/org/apache/commons/math3/complex/Complex.java@304@0.4470327936
-src/main/java/org/apache/commons/math3/complex/Complex.java@300@0.408041969
-src/main/java/org/apache/commons/math3/complex/Complex.java@348@0.1536627277
-src/main/java/org/apache/commons/math3/complex/Complex.java@345@0.148406912
-src/main/java/org/apache/commons/math3/complex/Complex.java@344@0.148406912
-src/main/java/org/apache/commons/math3/complex/Complex.java@343@0.1451853778
-src/main/java/org/apache/commons/math3/complex/Complex.java@340@0.1251963337
