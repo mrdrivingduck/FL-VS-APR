@@ -1,8 +1,0 @@
-org.apache.commons.lang.StringEscapeUtils@224@1
-org.apache.commons.lang.StringEscapeUtils@138@1
-org.apache.commons.lang.StringEscapeUtils@122@1
-org.apache.commons.lang.StringEscapeUtils@231@0.3333333333
-org.apache.commons.lang.StringEscapeUtils@230@0.3333333333
-org.apache.commons.lang.StringEscapeUtils@229@0.3333333333
-org.apache.commons.lang.StringEscapeUtils@173@0.3333333333
-org.apache.commons.lang.StringEscapeUtils@150@0.3333333333

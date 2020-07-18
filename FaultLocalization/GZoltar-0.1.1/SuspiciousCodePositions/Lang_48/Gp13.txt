@@ -1,9 +1,0 @@
-org.apache.commons.lang.builder.EqualsBuilder@372@1.0322580645
-org.apache.commons.lang.builder.EqualsBuilder@381@1.0256410256
-org.apache.commons.lang.builder.EqualsBuilder@408@1.010989011
-org.apache.commons.lang.builder.EqualsBuilder@379@1.010989011
-org.apache.commons.lang.builder.EqualsBuilder@378@1.010989011
-org.apache.commons.lang.builder.EqualsBuilder@374@1.010989011
-org.apache.commons.lang.builder.EqualsBuilder@371@1.010989011
-org.apache.commons.lang.builder.EqualsBuilder@368@1.010989011
-org.apache.commons.lang.builder.EqualsBuilder@831@1.0081300813

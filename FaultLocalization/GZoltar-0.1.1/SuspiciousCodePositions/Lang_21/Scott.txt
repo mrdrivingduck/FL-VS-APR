@@ -1,6 +1,0 @@
-org.apache.commons.lang3.Validate@157@6.7738231857
-org.apache.commons.lang3.Validate@160@5.0385434188
-org.apache.commons.lang3.StringUtils@210@0.2537802678
-org.apache.commons.lang3.text.StrBuilder@245@0.232841374
-org.apache.commons.lang3.text.StrBuilder@240@0.232841374
-org.apache.commons.lang3.text.StrBuilder@194@0.1961236137
