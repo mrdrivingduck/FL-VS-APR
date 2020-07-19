@@ -1,4 +1,0 @@
-src/main/java/org/apache/commons/csv/CSVRecord.java@85@0.0588235294
-src/main/java/org/apache/commons/csv/CSVRecord.java@84@0.0588235294
-src/main/java/org/apache/commons/csv/CSVRecord.java@80@0.0526315789
-src/main/java/org/apache/commons/csv/CSVFormat.java@342@0.0181818182

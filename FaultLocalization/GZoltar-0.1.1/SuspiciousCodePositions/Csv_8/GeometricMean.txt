@@ -1,6 +1,0 @@
-src/main/java/org/apache/commons/csv/CSVFormat.java@669@0.5742209764
-src/main/java/org/apache/commons/csv/CSVFormat.java@668@0.1322928689
-src/main/java/org/apache/commons/csv/CSVFormat.java@667@0.1322928689
-src/main/java/org/apache/commons/csv/CSVFormat.java@666@0.1322928689
-src/main/java/org/apache/commons/csv/CSVFormat.java@773@0.1129297748
-src/main/java/org/apache/commons/csv/CSVFormat.java@505@0.0273255046

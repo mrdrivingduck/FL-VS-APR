@@ -1,4 +1,0 @@
-src/main/java/org/apache/commons/csv/CSVLexer.java@217@1
-src/main/java/org/apache/commons/csv/CSVLexer.java@215@1
-src/main/java/org/apache/commons/csv/CSVLexer.java@212@1
-src/main/java/org/apache/commons/csv/CSVLexer.java@211@1
