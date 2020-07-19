@@ -1,3 +1,0 @@
-src/main/java/com/fasterxml/jackson/core/io/IOContext.java@284@0.3333333333
-src/main/java/com/fasterxml/jackson/core/io/IOContext.java@270@0.0114503817
-src/main/java/com/fasterxml/jackson/core/io/IOContext.java@269@0.0114503817

@@ -1,8 +1,0 @@
-src/main/java/com/fasterxml/jackson/core/base/ParserMinimalBase.java@401@2
-src/main/java/com/fasterxml/jackson/core/base/ParserMinimalBase.java@400@2
-src/main/java/com/fasterxml/jackson/core/base/ParserMinimalBase.java@397@2
-src/main/java/com/fasterxml/jackson/core/JsonToken.java@199@2
-src/main/java/com/fasterxml/jackson/core/json/UTF8StreamJsonParser.java@305@1
-src/main/java/com/fasterxml/jackson/core/json/UTF8StreamJsonParser.java@298@1
-src/main/java/com/fasterxml/jackson/core/json/ReaderBasedJsonParser.java@253@1
-src/main/java/com/fasterxml/jackson/core/json/ReaderBasedJsonParser.java@246@1

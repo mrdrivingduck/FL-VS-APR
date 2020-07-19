@@ -1,4 +1,0 @@
-src/main/java/com/fasterxml/jackson/core/json/UTF8JsonGenerator.java@1887@1
-src/main/java/com/fasterxml/jackson/core/base/GeneratorBase.java@299@1
-src/main/java/com/fasterxml/jackson/core/base/GeneratorBase.java@298@1
-src/main/java/com/fasterxml/jackson/core/JsonProcessingException.java@127@1

@@ -1,2 +1,0 @@
-src/main/java/com/fasterxml/jackson/core/JsonGenerator.java@1330@0.3333333333
-src/main/java/com/fasterxml/jackson/core/JsonProcessingException.java@127@0.3333333333
