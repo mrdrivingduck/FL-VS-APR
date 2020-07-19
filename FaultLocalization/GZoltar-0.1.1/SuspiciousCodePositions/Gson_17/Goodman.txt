@@ -1,1 +1,0 @@
-gson/src/main/java/com/google/gson/DefaultDateTypeAdapter.java@100@1

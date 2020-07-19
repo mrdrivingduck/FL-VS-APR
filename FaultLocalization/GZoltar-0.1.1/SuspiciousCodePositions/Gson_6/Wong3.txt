@@ -1,3 +1,0 @@
-gson/src/main/java/com/google/gson/Gson.java@428@1
-gson/src/main/java/com/google/gson/Gson.java@427@1
-gson/src/main/java/com/google/gson/Gson.java@425@1
