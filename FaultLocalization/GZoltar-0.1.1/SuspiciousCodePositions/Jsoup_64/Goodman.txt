@@ -1,2 +1,0 @@
-org.jsoup.parser.TokeniserState@1679@0.1428571429
-org.jsoup.parser.TokeniserState@1678@0.1428571429

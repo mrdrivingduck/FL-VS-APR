@@ -1,9 +1,0 @@
-org.jsoup.parser.CharacterReader@92@0.2222222222
-org.jsoup.parser.CharacterReader@91@0.1818181818
-org.jsoup.parser.CharacterReader@90@0.1818181818
-org.jsoup.parser.CharacterReader@89@0.1818181818
-org.jsoup.parser.CharacterReader@87@0.1818181818
-org.jsoup.parser.CharacterReader@85@0.1818181818
-org.jsoup.parser.CharacterReader@84@0.1818181818
-org.jsoup.helper.Validate@17@0.0053908356
-org.jsoup.helper.Validate@15@0.0053763441

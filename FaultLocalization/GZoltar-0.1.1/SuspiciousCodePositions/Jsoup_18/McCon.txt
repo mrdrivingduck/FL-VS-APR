@@ -1,5 +1,0 @@
-org.jsoup.parser.CharacterReader@101@0.3333333333
-org.jsoup.parser.CharacterReader@100@0.3333333333
-org.jsoup.parser.CharacterReader@99@0.3333333333
-org.jsoup.helper.Validate@17@0.0114503817
-org.jsoup.helper.Validate@15@0.0114068441

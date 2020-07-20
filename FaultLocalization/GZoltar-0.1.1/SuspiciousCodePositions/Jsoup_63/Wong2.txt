@@ -1,5 +1,0 @@
-org.jsoup.parser.Tokeniser@255@2
-org.jsoup.parser.Parser@76@1
-org.jsoup.parser.Parser@75@1
-org.jsoup.parser.ParseError@38@1
-org.jsoup.parser.Tokeniser@245@1

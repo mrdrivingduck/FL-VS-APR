@@ -1,7 +1,0 @@
-org.jsoup.Jsoup@249@1
-org.jsoup.Jsoup@248@1
-org.jsoup.Jsoup@247@1
-org.jsoup.safety.Cleaner@64@1
-org.jsoup.safety.Cleaner@63@1
-org.jsoup.safety.Cleaner@62@1
-org.jsoup.safety.Cleaner@60@1

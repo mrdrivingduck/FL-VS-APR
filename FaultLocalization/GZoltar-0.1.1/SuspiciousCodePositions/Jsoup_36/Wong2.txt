@@ -1,8 +1,0 @@
-org.jsoup.helper.DataUtil@161@1
-org.jsoup.helper.DataUtil@160@1
-org.jsoup.helper.DataUtil@159@1
-org.jsoup.helper.DataUtil@158@1
-org.jsoup.helper.DataUtil@157@1
-org.jsoup.Jsoup@118@1
-org.jsoup.helper.DataUtil@55@1
-org.jsoup.helper.DataUtil@54@1

@@ -1,4 +1,0 @@
-org.jsoup.parser.Tokeniser@161@4
-org.jsoup.parser.Tokeniser@219@1
-org.jsoup.parser.Tokeniser@217@1
-org.jsoup.nodes.Entities@125@1

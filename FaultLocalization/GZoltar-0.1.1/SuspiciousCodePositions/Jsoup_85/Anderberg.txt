@@ -1,4 +1,0 @@
-org.jsoup.helper.Validate@93@0.00090009
-org.jsoup.helper.Validate@91@0.0008984726
-org.jsoup.helper.Validate@17@0.0008190008
-org.jsoup.helper.Validate@15@0.0008176615

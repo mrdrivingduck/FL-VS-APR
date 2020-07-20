@@ -1,5 +1,0 @@
-org.jsoup.parser.XmlTreeBuilder@102@0.3333333333
-org.jsoup.parser.XmlTreeBuilder@101@0.3333333333
-org.jsoup.parser.XmlTreeBuilder@100@0.3333333333
-org.jsoup.parser.XmlTreeBuilder@50@0.3333333333
-org.jsoup.parser.XmlTreeBuilder@49@0.3333333333

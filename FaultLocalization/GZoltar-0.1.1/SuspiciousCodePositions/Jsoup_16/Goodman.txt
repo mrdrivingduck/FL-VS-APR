@@ -1,2 +1,0 @@
-org.jsoup.nodes.DocumentType@37@0.3333333333
-org.jsoup.nodes.DocumentType@35@0.3333333333

@@ -1,6 +1,0 @@
-org.jsoup.nodes.Document@81@1
-org.jsoup.nodes.Document@85@0.3333333333
-org.jsoup.nodes.Document@83@0.3333333333
-org.jsoup.nodes.Document@80@0.3333333333
-org.jsoup.nodes.Document@79@0.3333333333
-org.jsoup.nodes.Document@78@0.3333333333

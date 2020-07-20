@@ -1,8 +1,0 @@
-org.jsoup.nodes.FormElement@102@1
-org.jsoup.nodes.FormElement@97@1
-org.jsoup.nodes.FormElement@96@1
-org.jsoup.nodes.FormElement@95@1
-org.jsoup.nodes.FormElement@94@1
-org.jsoup.nodes.FormElement@93@1
-org.jsoup.nodes.FormElement@92@1
-org.jsoup.nodes.FormElement@91@1

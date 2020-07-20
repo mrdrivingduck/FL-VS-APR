@@ -1,8 +1,0 @@
-org.jsoup.safety.Cleaner@78@1
-org.jsoup.safety.Cleaner@77@1
-org.jsoup.safety.Cleaner@76@1
-org.jsoup.safety.Cleaner@74@1
-org.jsoup.safety.Whitelist@516@1
-org.jsoup.safety.Whitelist@515@1
-org.jsoup.safety.Whitelist@514@1
-org.jsoup.safety.Whitelist@513@1
