@@ -1,3 +1,0 @@
-org.apache.commons.jxpath.xml.DocumentContainer@115@0.0782608696
-org.apache.commons.jxpath.xml.JDOMParser@39@0.0782608696
-org.apache.commons.jxpath.xml.JDOMParser@33@0.0782608696
